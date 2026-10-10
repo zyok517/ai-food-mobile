@@ -1,0 +1,16 @@
+﻿IDX=297
+NAME=肉沫螺蛳粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=298
+NAME=鸡块螺蛳粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=299
+NAME=肥牛螺蛳粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=300
+NAME=炸蛋螺蛳粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

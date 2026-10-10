@@ -1,0 +1,4 @@
+﻿PROMPT_060=A bowl of noodles with tomato and egg, red yellow broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_061=A bowl of Chinese noodles in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_062=A bowl of noodles with sesame sauce, mixed dry, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_063=A bowl of noodles with sesame sauce and shredded chicken, mixed dry, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text

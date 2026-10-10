@@ -1,0 +1,112 @@
+﻿IDX=393
+NAME=提拉米苏
+PROMPT=A tiramisu dessert, layered coffee flavored cake with cocoa powder, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=394
+NAME=雪媚娘
+PROMPT=A snow mochi, white round chewy mochi with cream filling, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=395
+NAME=甜甜圈
+PROMPT=A glazed donut, golden ring donut with sweet glaze and colorful sprinkles, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=396
+NAME=蟹小方
+PROMPT=A crab snack cake, golden square cake with crab pattern, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=397
+NAME=奶酪包
+PROMPT=A cheese bread bun, soft fluffy bread with cream cheese filling, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=398
+NAME=肉松面包
+PROMPT=A soft bread bun with meat floss, fluffy bread topped with pork floss, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=399
+NAME=毛毛虫面包
+PROMPT=Fresh bread buns, golden brown, soft and fluffy, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=400
+NAME=杂粮煎饼
+PROMPT=A Chinese jianbing crepe, golden crispy crepe with egg, sauce and fillings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=401
+NAME=特色烤冷面
+PROMPT=A bowl of Chinese noodles in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=402
+NAME=酱香手抓饼
+PROMPT=A crispy hand-grabbed pancake, flaky golden layers, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=403
+NAME=葱油鸡饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=404
+NAME=玫瑰豉油鸡饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=405
+NAME=白切鸡饭
+PROMPT=A plate of rice with white cut poached chicken, tender chicken with ginger sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=406
+NAME=盐焗鸡饭
+PROMPT=A plate of rice with salt-baked chicken, golden skin, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=407
+NAME=广式烧鸭饭
+PROMPT=A plate of rice with crispy roast duck, golden brown skin, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=408
+NAME=广式烧鹅饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=409
+NAME=土豆焖鸭饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=410
+NAME=土豆焖鸡饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=411
+NAME=茶树菇老鸭汤
+PROMPT=A bowl of Chinese soup, hot savory soup with fresh ingredients, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=412
+NAME=红枣枸杞老鸡汤
+PROMPT=A bowl of Chinese soup, hot savory soup with fresh ingredients, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=413
+NAME=鸡蛋玉米肠粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=414
+NAME=双蛋肠粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=415
+NAME=鸡蛋鸡肉肠粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=416
+NAME=鸡蛋火腿肠粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=417
+NAME=鸡蛋牛肉肠粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=418
+NAME=鸡蛋虾仁肠粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=419
+NAME=广式清补凉
+PROMPT=A bowl of Cantonese clear tonic soup, light nourishing soup with various ingredients, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=420
+NAME=香芋西米露
+PROMPT=A bowl of taro sago coconut milk dessert, creamy white with taro chunks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

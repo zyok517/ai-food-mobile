@@ -1,0 +1,8 @@
+﻿IDX=331
+NAME=农家回锅肉饭
+PROMPT=A plate of rice with twice-cooked pork, spicy with peppers, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=332
+NAME=泡椒鸡胗饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

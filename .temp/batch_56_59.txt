@@ -1,0 +1,4 @@
+﻿PROMPT_056=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_057=A bowl of hand-pulled beef noodles in clear broth, tender beef slices, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_058=A bowl of hand-pulled noodles with green vegetables in clear broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_059=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text

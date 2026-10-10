@@ -1,0 +1,112 @@
+﻿IDX=333
+NAME=番茄牛肉饭
+PROMPT=A plate of rice with beef, savory brown sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=334
+NAME=牛肉拼茄子饭
+PROMPT=A plate of rice with beef, savory brown sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=335
+NAME=经典鲍汁鸡公煲
+PROMPT=A clay pot of Chinese stew with chicken, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=336
+NAME=秘制麻辣鸡公煲
+PROMPT=A clay pot of Chinese stew with chicken, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=337
+NAME=黑鸭甜辣鸡公煲
+PROMPT=A clay pot of Chinese stew with chicken, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=338
+NAME=五花肉酸菜煲
+PROMPT=A clay pot of Chinese stew, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=339
+NAME=特色青花椒鸡公煲
+PROMPT=A clay pot of Chinese stew with chicken, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=340
+NAME=自助面
+PROMPT=A bowl of Chinese noodles in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=341
+NAME=公瑾爆蛋土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=342
+NAME=蟹柳茄子土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=343
+NAME=椒麻手撕鸡土豆泥拌饭
+PROMPT=A plate of rice with hand-torn chicken, savory shredded meat, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=344
+NAME=糖醋烧鸡土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=345
+NAME=双椒鸡土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=346
+NAME=牛奶脆皮炸鸡土豆泥拌饭
+PROMPT=A plate of rice with fried chicken pieces, crispy golden, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=347
+NAME=荔枝鸡土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=348
+NAME=招牌绝味鸡土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=349
+NAME=法式黑椒鸡土豆泥拌饭
+PROMPT=A plate of rice with black pepper chicken, peppery sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=350
+NAME=韩式孜然鸡土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=351
+NAME=泰式咖喱鸡土豆泥拌饭
+PROMPT=A plate of rice with curry chicken, golden yellow curry sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=352
+NAME=港式卤肉土豆泥拌饭
+PROMPT=A plate of rice with braised pork, rich dark sauce, Taiwanese style, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=353
+NAME=霸王炒鸡土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=354
+NAME=可乐鸡翅根土豆泥拌饭
+PROMPT=A plate of rice with crispy chicken wing roots, golden brown, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=355
+NAME=黄金猪排土豆泥拌饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=356
+NAME=石锅豆腐
+PROMPT=A sizzling stone pot tofu dish, bubbling hot tofu in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=357
+NAME=石锅土豆条
+PROMPT=A sizzling stone pot dish with meat and vegetables, bubbling hot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=358
+NAME=石锅土豆粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=359
+NAME=石锅千叶豆腐
+PROMPT=A sizzling stone pot tofu dish, bubbling hot tofu in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=360
+NAME=石锅煎鸡蛋
+PROMPT=A sizzling stone pot chicken, tender chicken in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

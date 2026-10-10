@@ -1,0 +1,7921 @@
+[
+  {
+    "idx": 1,
+    "name": "鲜肉大葱水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      1
+    ]
+  },
+  {
+    "idx": 2,
+    "name": "鲜肉白菜水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      2
+    ]
+  },
+  {
+    "idx": 3,
+    "name": "鲜肉芹菜水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      3
+    ]
+  },
+  {
+    "idx": 4,
+    "name": "韭菜鸡蛋水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      4,
+      539
+    ]
+  },
+  {
+    "idx": 5,
+    "name": "鲜肉玉米水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      5
+    ]
+  },
+  {
+    "idx": 6,
+    "name": "鲜肉韭菜水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      6
+    ]
+  },
+  {
+    "idx": 7,
+    "name": "鲜肉茴香水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      7
+    ]
+  },
+  {
+    "idx": 8,
+    "name": "混搭水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      8
+    ]
+  },
+  {
+    "idx": 9,
+    "name": "牛肉大葱水饺",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元/10个，13.5元/15个，18元/20个",
+    "original_indices": [
+      9,
+      534
+    ]
+  },
+  {
+    "idx": 10,
+    "name": "台湾烤肠",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "4元",
+    "original_indices": [
+      10
+    ]
+  },
+  {
+    "idx": 11,
+    "name": "鲜肉云吞面",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      11
+    ]
+  },
+  {
+    "idx": 12,
+    "name": "醪糟汤圆",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      12
+    ]
+  },
+  {
+    "idx": 13,
+    "name": "玫瑰汤圆",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      13
+    ]
+  },
+  {
+    "idx": 14,
+    "name": "桂花汤圆",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      14
+    ]
+  },
+  {
+    "idx": 15,
+    "name": "方便面+蛋+青菜",
+    "window": "水饺",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      15
+    ]
+  },
+  {
+    "idx": 16,
+    "name": "小米南瓜粥",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "2元",
+    "original_indices": [
+      16
+    ]
+  },
+  {
+    "idx": 17,
+    "name": "八宝粥",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "2.5元",
+    "original_indices": [
+      17
+    ]
+  },
+  {
+    "idx": 18,
+    "name": "花生牛奶",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "3元",
+    "original_indices": [
+      18
+    ]
+  },
+  {
+    "idx": 19,
+    "name": "青菜瘦肉粥",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "3元",
+    "original_indices": [
+      19
+    ]
+  },
+  {
+    "idx": 20,
+    "name": "胡辣汤",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "5元",
+    "original_indices": [
+      20
+    ]
+  },
+  {
+    "idx": 21,
+    "name": "烧麦",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "3个/6元",
+    "original_indices": [
+      21
+    ]
+  },
+  {
+    "idx": 22,
+    "name": "小笼包（素）",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "10个/6元",
+    "original_indices": [
+      22
+    ]
+  },
+  {
+    "idx": 23,
+    "name": "小笼包（肉）",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "10个/7元",
+    "original_indices": [
+      23
+    ]
+  },
+  {
+    "idx": 24,
+    "name": "蒸饺",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "10个/7元",
+    "original_indices": [
+      24
+    ]
+  },
+  {
+    "idx": 25,
+    "name": "水煎包",
+    "window": "粥/包点",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "7个/7元",
+    "original_indices": [
+      25
+    ]
+  },
+  {
+    "idx": 26,
+    "name": "掉渣饼",
+    "window": "烧饼",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "4元",
+    "original_indices": [
+      26
+    ]
+  },
+  {
+    "idx": 27,
+    "name": "五谷豆浆",
+    "window": "烧饼",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "3元",
+    "original_indices": [
+      27
+    ]
+  },
+  {
+    "idx": 28,
+    "name": "原味拌粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      28
+    ]
+  },
+  {
+    "idx": 29,
+    "name": "原汤米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      29
+    ]
+  },
+  {
+    "idx": 30,
+    "name": "酸辣米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      30
+    ]
+  },
+  {
+    "idx": 31,
+    "name": "三鲜鱼豆腐米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "10元",
+    "original_indices": [
+      31
+    ]
+  },
+  {
+    "idx": 32,
+    "name": "肉沫干拌米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      32
+    ]
+  },
+  {
+    "idx": 33,
+    "name": "香菇鸡块米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      33
+    ]
+  },
+  {
+    "idx": 34,
+    "name": "鸡杂米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      34
+    ]
+  },
+  {
+    "idx": 35,
+    "name": "肉沫酸豆角粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      35
+    ]
+  },
+  {
+    "idx": 36,
+    "name": "招牌肉沫米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      36
+    ]
+  },
+  {
+    "idx": 37,
+    "name": "酸菜鱼片米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      37
+    ]
+  },
+  {
+    "idx": 38,
+    "name": "红烧排骨米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      38
+    ]
+  },
+  {
+    "idx": 39,
+    "name": "肉沫笋尖米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      39
+    ]
+  },
+  {
+    "idx": 40,
+    "name": "番茄牛肉米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      40
+    ]
+  },
+  {
+    "idx": 41,
+    "name": "红烧肥肠米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      41
+    ]
+  },
+  {
+    "idx": 42,
+    "name": "金汤牛肉米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      42
+    ]
+  },
+  {
+    "idx": 43,
+    "name": "红烧牛肉米粉",
+    "window": "无名缘米粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      43
+    ]
+  },
+  {
+    "idx": 44,
+    "name": "九品三鲜煲",
+    "window": "九品太煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      44
+    ]
+  },
+  {
+    "idx": 45,
+    "name": "九品鸡肉煲",
+    "window": "九品太煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      45
+    ]
+  },
+  {
+    "idx": 46,
+    "name": "九品酥肉煲",
+    "window": "九品太煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      46
+    ]
+  },
+  {
+    "idx": 47,
+    "name": "九品排骨煲",
+    "window": "九品太煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      47
+    ]
+  },
+  {
+    "idx": 48,
+    "name": "九品西红柿牛腩煲",
+    "window": "九品太煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      48
+    ]
+  },
+  {
+    "idx": 49,
+    "name": "九品无骨鱼肉煲",
+    "window": "九品太煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      49
+    ]
+  },
+  {
+    "idx": 50,
+    "name": "九品金针菇肉卷煲",
+    "window": "九品太煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      50
+    ]
+  },
+  {
+    "idx": 51,
+    "name": "老北京涮菜",
+    "window": "肠粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      51
+    ]
+  },
+  {
+    "idx": 52,
+    "name": "麻辣肉沫牛筋面",
+    "window": "肠粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      52
+    ]
+  },
+  {
+    "idx": 53,
+    "name": "肉夹馍（肥瘦肉）",
+    "window": "肠粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "7元",
+    "original_indices": [
+      53
+    ]
+  },
+  {
+    "idx": 54,
+    "name": "肉夹馍（纯瘦肉）",
+    "window": "肠粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      54
+    ]
+  },
+  {
+    "idx": 55,
+    "name": "麻辣拌",
+    "window": "肠粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      55,
+      239
+    ]
+  },
+  {
+    "idx": 56,
+    "name": "肠粉",
+    "window": "肠粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "5元",
+    "original_indices": [
+      56
+    ]
+  },
+  {
+    "idx": 57,
+    "name": "牛肉拉面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      57
+    ]
+  },
+  {
+    "idx": 58,
+    "name": "青菜拉面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "7元",
+    "original_indices": [
+      58
+    ]
+  },
+  {
+    "idx": 59,
+    "name": "大盘鸡拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      59,
+      452
+    ]
+  },
+  {
+    "idx": 60,
+    "name": "西红柿鸡蛋面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      60,
+      244
+    ]
+  },
+  {
+    "idx": 61,
+    "name": "油泼面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      61
+    ]
+  },
+  {
+    "idx": 62,
+    "name": "麻酱拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "8元",
+    "original_indices": [
+      62,
+      477
+    ]
+  },
+  {
+    "idx": 63,
+    "name": "麻酱鸡丝拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11元",
+    "original_indices": [
+      63
+    ]
+  },
+  {
+    "idx": 64,
+    "name": "鸡蛋炒面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      64
+    ]
+  },
+  {
+    "idx": 65,
+    "name": "肉片炒面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      65
+    ]
+  },
+  {
+    "idx": 66,
+    "name": "牛肉炒面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      66
+    ]
+  },
+  {
+    "idx": 67,
+    "name": "肉酱拉面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      67
+    ]
+  },
+  {
+    "idx": 68,
+    "name": "老北京炸酱面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "10元",
+    "original_indices": [
+      68,
+      251,
+      660
+    ]
+  },
+  {
+    "idx": 69,
+    "name": "酸菜牛肉面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "10元",
+    "original_indices": [
+      69
+    ]
+  },
+  {
+    "idx": 70,
+    "name": "红烧牛肉面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      70
+    ]
+  },
+  {
+    "idx": 71,
+    "name": "香辣肉酱拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      71
+    ]
+  },
+  {
+    "idx": 72,
+    "name": "西红柿肉酱拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      72
+    ]
+  },
+  {
+    "idx": 73,
+    "name": "剁椒肉酱拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      73,
+      667
+    ]
+  },
+  {
+    "idx": 74,
+    "name": "特色干拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      74
+    ]
+  },
+  {
+    "idx": 75,
+    "name": "三合一拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      75
+    ]
+  },
+  {
+    "idx": 76,
+    "name": "biang biang面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      76
+    ]
+  },
+  {
+    "idx": 77,
+    "name": "红油热干面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元",
+    "original_indices": [
+      77
+    ]
+  },
+  {
+    "idx": 78,
+    "name": "肉酱热干面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      78
+    ]
+  },
+  {
+    "idx": 79,
+    "name": "牛肉热干面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      79
+    ]
+  },
+  {
+    "idx": 80,
+    "name": "牛肉泡馍",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      80
+    ]
+  },
+  {
+    "idx": 81,
+    "name": "牛肉烩面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      81
+    ]
+  },
+  {
+    "idx": 82,
+    "name": "椒麻鸡拌面",
+    "window": "基本伙菜品（面食）",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      82,
+      453
+    ]
+  },
+  {
+    "idx": 83,
+    "name": "菜名",
+    "window": "窗口",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "价格",
+    "original_indices": [
+      83,
+      522
+    ]
+  },
+  {
+    "idx": 84,
+    "name": "叉烧鸭腿饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      84
+    ]
+  },
+  {
+    "idx": 85,
+    "name": "剁椒柠檬鸡腿饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      85
+    ]
+  },
+  {
+    "idx": 86,
+    "name": "招牌叉烧鸡腿饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      86
+    ]
+  },
+  {
+    "idx": 87,
+    "name": "湛江白切鸡饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      87
+    ]
+  },
+  {
+    "idx": 88,
+    "name": "红油口水鸡饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      88
+    ]
+  },
+  {
+    "idx": 89,
+    "name": "脆皮烧鸭饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      89
+    ]
+  },
+  {
+    "idx": 90,
+    "name": "酱香焖鸡饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      90
+    ]
+  },
+  {
+    "idx": 91,
+    "name": "麻辣焖鸡饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      91
+    ]
+  },
+  {
+    "idx": 92,
+    "name": "隆江猪脚饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      92
+    ]
+  },
+  {
+    "idx": 93,
+    "name": "秘制叉烧肉饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      93
+    ]
+  },
+  {
+    "idx": 94,
+    "name": "把子肉饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      94
+    ]
+  },
+  {
+    "idx": 95,
+    "name": "脆皮五花肉饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      95
+    ]
+  },
+  {
+    "idx": 96,
+    "name": "经典排骨饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      96
+    ]
+  },
+  {
+    "idx": 97,
+    "name": "广味腊肠饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      97
+    ]
+  },
+  {
+    "idx": 98,
+    "name": "川味腊肠饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      98
+    ]
+  },
+  {
+    "idx": 99,
+    "name": "孜然烤肉饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      99
+    ]
+  },
+  {
+    "idx": 100,
+    "name": "双拼饭",
+    "window": "广式烧腊",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16.8元",
+    "original_indices": [
+      100,
+      413
+    ]
+  },
+  {
+    "idx": 101,
+    "name": "黑椒鸡排饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      101
+    ]
+  },
+  {
+    "idx": 102,
+    "name": "麻辣鸡排饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      102
+    ]
+  },
+  {
+    "idx": 103,
+    "name": "脆皮鸡排饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      103
+    ]
+  },
+  {
+    "idx": 104,
+    "name": "奥尔良鸡肉饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      104
+    ]
+  },
+  {
+    "idx": 105,
+    "name": "香脆翅根饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      105
+    ]
+  },
+  {
+    "idx": 106,
+    "name": "蒜香炸鸡饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      106
+    ]
+  },
+  {
+    "idx": 107,
+    "name": "麦辣鸡块饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      107
+    ]
+  },
+  {
+    "idx": 108,
+    "name": "半只烤鸡饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      108
+    ]
+  },
+  {
+    "idx": 109,
+    "name": "招牌手枪腿饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      109
+    ]
+  },
+  {
+    "idx": 110,
+    "name": "原味大鸡排饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      110
+    ]
+  },
+  {
+    "idx": 111,
+    "name": "香酥大鸡腿饭",
+    "window": "脆皮炸鸡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      111
+    ]
+  },
+  {
+    "idx": 112,
+    "name": "火腿鸡蛋炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11元",
+    "original_indices": [
+      112,
+      217
+    ]
+  },
+  {
+    "idx": 113,
+    "name": "奥尔良鸡肉炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      113,
+      562
+    ]
+  },
+  {
+    "idx": 114,
+    "name": "老干妈火腿炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      114
+    ]
+  },
+  {
+    "idx": 115,
+    "name": "老干妈鸡肉炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      115
+    ]
+  },
+  {
+    "idx": 116,
+    "name": "菌菇火腿炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      116
+    ]
+  },
+  {
+    "idx": 117,
+    "name": "菌菇鸡肉炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      117
+    ]
+  },
+  {
+    "idx": 118,
+    "name": "广式腊肠炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      118
+    ]
+  },
+  {
+    "idx": 119,
+    "name": "老干妈五花肉炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      119
+    ]
+  },
+  {
+    "idx": 120,
+    "name": "菌菇腊肠炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      120
+    ]
+  },
+  {
+    "idx": 121,
+    "name": "老干妈腊肠炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      121
+    ]
+  },
+  {
+    "idx": 122,
+    "name": "菌菇五花肉炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      122
+    ]
+  },
+  {
+    "idx": 123,
+    "name": "菌菇全家福炒饭",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      123
+    ]
+  },
+  {
+    "idx": 124,
+    "name": "素汤",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "7元",
+    "original_indices": [
+      124
+    ]
+  },
+  {
+    "idx": 125,
+    "name": "素粉",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "9元",
+    "original_indices": [
+      125
+    ]
+  },
+  {
+    "idx": 126,
+    "name": "麻辣拌粉",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "10元",
+    "original_indices": [
+      126
+    ]
+  },
+  {
+    "idx": 127,
+    "name": "牛杂拌粉",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      127
+    ]
+  },
+  {
+    "idx": 128,
+    "name": "牛杂汤",
+    "window": "菌菇炒饭·牛杂粉",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      128
+    ]
+  },
+  {
+    "idx": 129,
+    "name": "豆花烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      129
+    ]
+  },
+  {
+    "idx": 130,
+    "name": "泡面烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      130
+    ]
+  },
+  {
+    "idx": 131,
+    "name": "血旺烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      131
+    ]
+  },
+  {
+    "idx": 132,
+    "name": "年糕烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      132
+    ]
+  },
+  {
+    "idx": 133,
+    "name": "土豆粉烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      133
+    ]
+  },
+  {
+    "idx": 134,
+    "name": "香煎蛋烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      134
+    ]
+  },
+  {
+    "idx": 135,
+    "name": "小酥肉烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      135
+    ]
+  },
+  {
+    "idx": 136,
+    "name": "嫩鸡柳烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      136
+    ]
+  },
+  {
+    "idx": 137,
+    "name": "卤肉炸茄子饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11.9元",
+    "original_indices": [
+      137
+    ]
+  },
+  {
+    "idx": 138,
+    "name": "卤肉豆腐饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11.9元",
+    "original_indices": [
+      138
+    ]
+  },
+  {
+    "idx": 139,
+    "name": "卤肉肉肠饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12.8元",
+    "original_indices": [
+      139
+    ]
+  },
+  {
+    "idx": 140,
+    "name": "卤肉黑椒肉煲饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      140
+    ]
+  },
+  {
+    "idx": 141,
+    "name": "卤肉肉卷饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      141
+    ]
+  },
+  {
+    "idx": 142,
+    "name": "卤肉腊肠饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      142
+    ]
+  },
+  {
+    "idx": 143,
+    "name": "甜辣黑鸭饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      143
+    ]
+  },
+  {
+    "idx": 144,
+    "name": "雪花鸡排卤肉饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      144
+    ]
+  },
+  {
+    "idx": 145,
+    "name": "卤肉炸鸡饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      145
+    ]
+  },
+  {
+    "idx": 146,
+    "name": "卤肉鸡腿饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      146
+    ]
+  },
+  {
+    "idx": 147,
+    "name": "卤肉鸭腿饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      147
+    ]
+  },
+  {
+    "idx": 148,
+    "name": "卤肉牛肉饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16.8元",
+    "original_indices": [
+      148
+    ]
+  },
+  {
+    "idx": 149,
+    "name": "全家福丸烤鱼饭",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      149
+    ]
+  },
+  {
+    "idx": 150,
+    "name": "钵钵鸡（不含猪肚）系列",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元起",
+    "original_indices": [
+      150
+    ]
+  },
+  {
+    "idx": 151,
+    "name": "猪肚鸡系列",
+    "window": "赣五爷 卤肉炸鸡 / 烤鱼饭~猪肚鸡",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元起",
+    "original_indices": [
+      151
+    ]
+  },
+  {
+    "idx": 152,
+    "name": "剁椒鸡蛋盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      152
+    ]
+  },
+  {
+    "idx": 153,
+    "name": "地三鲜盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      153
+    ]
+  },
+  {
+    "idx": 154,
+    "name": "外婆菜鸡蛋盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      154
+    ]
+  },
+  {
+    "idx": 155,
+    "name": "拉丝番茄炒蛋盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      155
+    ]
+  },
+  {
+    "idx": 156,
+    "name": "尖椒鸡蛋盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      156
+    ]
+  },
+  {
+    "idx": 157,
+    "name": "鱼香茄子盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      157
+    ]
+  },
+  {
+    "idx": 158,
+    "name": "木须肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      158
+    ]
+  },
+  {
+    "idx": 159,
+    "name": "醋溜木须肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      159
+    ]
+  },
+  {
+    "idx": 160,
+    "name": "土豆肉丝盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      160
+    ]
+  },
+  {
+    "idx": 161,
+    "name": "尖椒肉丝盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      161
+    ]
+  },
+  {
+    "idx": 162,
+    "name": "鱼香肉丝盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      162
+    ]
+  },
+  {
+    "idx": 163,
+    "name": "香辣肉丝盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      163
+    ]
+  },
+  {
+    "idx": 164,
+    "name": "京酱肉丝盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      164
+    ]
+  },
+  {
+    "idx": 165,
+    "name": "湘味扇贝肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      165
+    ]
+  },
+  {
+    "idx": 166,
+    "name": "蒜苔肉丝盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      166
+    ]
+  },
+  {
+    "idx": 167,
+    "name": "宫保鸡丁盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      167
+    ]
+  },
+  {
+    "idx": 168,
+    "name": "肉末烧茄子盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      168
+    ]
+  },
+  {
+    "idx": 169,
+    "name": "火腿滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      169
+    ]
+  },
+  {
+    "idx": 170,
+    "name": "培根滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      170
+    ]
+  },
+  {
+    "idx": 171,
+    "name": "一品烤肉滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      171
+    ]
+  },
+  {
+    "idx": 172,
+    "name": "奥尔良鸡丁滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      172
+    ]
+  },
+  {
+    "idx": 173,
+    "name": "小酥肉滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      173
+    ]
+  },
+  {
+    "idx": 174,
+    "name": "精品五花肉滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      174
+    ]
+  },
+  {
+    "idx": 175,
+    "name": "广式腊肠滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      175
+    ]
+  },
+  {
+    "idx": 176,
+    "name": "全家福滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      176
+    ]
+  },
+  {
+    "idx": 177,
+    "name": "虾仁滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      177
+    ]
+  },
+  {
+    "idx": 178,
+    "name": "肥牛滑蛋饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      178
+    ]
+  },
+  {
+    "idx": 179,
+    "name": "辣子鸡丁盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      179
+    ]
+  },
+  {
+    "idx": 180,
+    "name": "鱼香鸡丁盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      180
+    ]
+  },
+  {
+    "idx": 181,
+    "name": "老干妈鸡丁盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      181
+    ]
+  },
+  {
+    "idx": 182,
+    "name": "黑椒鸡柳盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      182
+    ]
+  },
+  {
+    "idx": 183,
+    "name": "剁椒鸡蛋炒饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      183
+    ]
+  },
+  {
+    "idx": 184,
+    "name": "香汁鸡丁盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      184
+    ]
+  },
+  {
+    "idx": 185,
+    "name": "干煸豆角盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      185
+    ]
+  },
+  {
+    "idx": 186,
+    "name": "豆角烧茄子盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      186
+    ]
+  },
+  {
+    "idx": 187,
+    "name": "腐竹回锅肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      187
+    ]
+  },
+  {
+    "idx": 188,
+    "name": "土豆回锅肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      188
+    ]
+  },
+  {
+    "idx": 189,
+    "name": "糖醋里脊盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      189
+    ]
+  },
+  {
+    "idx": 190,
+    "name": "椒盐里脊盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      190
+    ]
+  },
+  {
+    "idx": 191,
+    "name": "包菜炒五花肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      191
+    ]
+  },
+  {
+    "idx": 192,
+    "name": "卤肉茄子盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      192
+    ]
+  },
+  {
+    "idx": 193,
+    "name": "农家小炒肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      193
+    ]
+  },
+  {
+    "idx": 194,
+    "name": "香干小炒肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      194
+    ]
+  },
+  {
+    "idx": 195,
+    "name": "香干炒腊肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      195
+    ]
+  },
+  {
+    "idx": 196,
+    "name": "外婆菜腊肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      196
+    ]
+  },
+  {
+    "idx": 197,
+    "name": "腐竹红烧肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      197
+    ]
+  },
+  {
+    "idx": 198,
+    "name": "包菜炒腊肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      198
+    ]
+  },
+  {
+    "idx": 199,
+    "name": "土豆红烧肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      199
+    ]
+  },
+  {
+    "idx": 200,
+    "name": "土豆片炒腊肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      200
+    ]
+  },
+  {
+    "idx": 201,
+    "name": "豆花牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      201
+    ]
+  },
+  {
+    "idx": 202,
+    "name": "香汁牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      202
+    ]
+  },
+  {
+    "idx": 203,
+    "name": "黑椒牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      203
+    ]
+  },
+  {
+    "idx": 204,
+    "name": "香干炒牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      204
+    ]
+  },
+  {
+    "idx": 205,
+    "name": "滑蛋牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      205
+    ]
+  },
+  {
+    "idx": 206,
+    "name": "小炒黄牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      206
+    ]
+  },
+  {
+    "idx": 207,
+    "name": "孜然牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      207
+    ]
+  },
+  {
+    "idx": 208,
+    "name": "酸辣鸡胗盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      208
+    ]
+  },
+  {
+    "idx": 209,
+    "name": "香辣鱿鱼牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      209
+    ]
+  },
+  {
+    "idx": 210,
+    "name": "土豆烧牛肉盖饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      210
+    ]
+  },
+  {
+    "idx": 211,
+    "name": "香辣烤鸭饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      211
+    ]
+  },
+  {
+    "idx": 212,
+    "name": "孜然烤鸭饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      212
+    ]
+  },
+  {
+    "idx": 213,
+    "name": "黑椒烤鸭饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      213
+    ]
+  },
+  {
+    "idx": 214,
+    "name": "奥尔良烤鸭饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      214
+    ]
+  },
+  {
+    "idx": 215,
+    "name": "肥牛拌饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      215
+    ]
+  },
+  {
+    "idx": 216,
+    "name": "双拼拌饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      216
+    ]
+  },
+  {
+    "idx": 217,
+    "name": "外婆菜蛋炒饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      218
+    ]
+  },
+  {
+    "idx": 218,
+    "name": "牛肉炒饭",
+    "window": "盛百禾滑蛋饭 / 湘味小炒盖饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      219,
+      443
+    ]
+  },
+  {
+    "idx": 219,
+    "name": "荔枝鸡肉饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      220
+    ]
+  },
+  {
+    "idx": 220,
+    "name": "香酥鸡肉饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      221
+    ]
+  },
+  {
+    "idx": 221,
+    "name": "青花椒小酥肉饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      222
+    ]
+  },
+  {
+    "idx": 222,
+    "name": "酸辣鸡肉饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      223
+    ]
+  },
+  {
+    "idx": 223,
+    "name": "双椒鸡肉饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      224
+    ]
+  },
+  {
+    "idx": 224,
+    "name": "港式鸡肉饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      225
+    ]
+  },
+  {
+    "idx": 225,
+    "name": "黑椒鸡肉饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      226
+    ]
+  },
+  {
+    "idx": 226,
+    "name": "山东小炒鸡饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      227
+    ]
+  },
+  {
+    "idx": 227,
+    "name": "鱼香鸡丁饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      228
+    ]
+  },
+  {
+    "idx": 228,
+    "name": "焦香溜肉段饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13.8元",
+    "original_indices": [
+      229
+    ]
+  },
+  {
+    "idx": 229,
+    "name": "红烧猪排饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      230
+    ]
+  },
+  {
+    "idx": 230,
+    "name": "黑金卤肉饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      231
+    ]
+  },
+  {
+    "idx": 231,
+    "name": "糖醋猪排饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      232
+    ]
+  },
+  {
+    "idx": 232,
+    "name": "辣卤猪排饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      233
+    ]
+  },
+  {
+    "idx": 233,
+    "name": "港式猪排饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      234
+    ]
+  },
+  {
+    "idx": 234,
+    "name": "原味猪排饭",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      235
+    ]
+  },
+  {
+    "idx": 235,
+    "name": "任意双拼",
+    "window": "荔枝鸡猪排双拼饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14.8元",
+    "original_indices": [
+      236
+    ]
+  },
+  {
+    "idx": 236,
+    "name": "骨汤麻辣烫",
+    "window": "骨汤麻辣烫 / 麻辣香锅 / 麻辣拌",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "18.6元/斤（荤素同价）",
+    "original_indices": [
+      237
+    ]
+  },
+  {
+    "idx": 237,
+    "name": "菌菇麻辣烫",
+    "window": "骨汤麻辣烫 / 麻辣香锅 / 麻辣拌",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "18.6元/斤（荤素同价）",
+    "original_indices": [
+      238
+    ]
+  },
+  {
+    "idx": 238,
+    "name": "番茄麻辣烫",
+    "window": "骨汤麻辣烫 / 麻辣香锅 / 麻辣拌",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "18.6元/斤（荤素同价）",
+    "original_indices": [
+      240
+    ]
+  },
+  {
+    "idx": 239,
+    "name": "藤椒麻辣烫",
+    "window": "骨汤麻辣烫 / 麻辣香锅 / 麻辣拌",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "18.6元/斤（荤素同价）",
+    "original_indices": [
+      241
+    ]
+  },
+  {
+    "idx": 240,
+    "name": "麻辣香锅",
+    "window": "骨汤麻辣烫 / 麻辣香锅 / 麻辣拌",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "素菜14元/斤，荤菜30元/斤",
+    "original_indices": [
+      242
+    ]
+  },
+  {
+    "idx": 241,
+    "name": "自选健康餐",
+    "window": "自选健康餐",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "19.8元/斤",
+    "original_indices": [
+      243
+    ]
+  },
+  {
+    "idx": 242,
+    "name": "酸菜肉丝面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      245
+    ]
+  },
+  {
+    "idx": 243,
+    "name": "招牌刀削面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      246
+    ]
+  },
+  {
+    "idx": 244,
+    "name": "鸡汤刀削面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      247
+    ]
+  },
+  {
+    "idx": 245,
+    "name": "香菇鸡块面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      248
+    ]
+  },
+  {
+    "idx": 246,
+    "name": "牛肉刀削面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      249
+    ]
+  },
+  {
+    "idx": 247,
+    "name": "肥肠刀削面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      250
+    ]
+  },
+  {
+    "idx": 248,
+    "name": "剁椒鸡蛋拌面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      252
+    ]
+  },
+  {
+    "idx": 249,
+    "name": "泡椒鸡杂拌面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      253
+    ]
+  },
+  {
+    "idx": 250,
+    "name": "尖椒肉片拌面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      254
+    ]
+  },
+  {
+    "idx": 251,
+    "name": "秘制油泼面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      255
+    ]
+  },
+  {
+    "idx": 252,
+    "name": "小炒肉拌面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      256
+    ]
+  },
+  {
+    "idx": 253,
+    "name": "红油爆肚拌面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      257
+    ]
+  },
+  {
+    "idx": 254,
+    "name": "西红柿鸡蛋炒面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      258
+    ]
+  },
+  {
+    "idx": 255,
+    "name": "过油肉炒刀削面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      259
+    ]
+  },
+  {
+    "idx": 256,
+    "name": "牛肉炒刀削面",
+    "window": "刀削面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      260
+    ]
+  },
+  {
+    "idx": 257,
+    "name": "笨豆腐",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      261
+    ]
+  },
+  {
+    "idx": 258,
+    "name": "辣炒金钱蛋",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      262
+    ]
+  },
+  {
+    "idx": 259,
+    "name": "腐竹炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      263
+    ]
+  },
+  {
+    "idx": 260,
+    "name": "木耳炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      264
+    ]
+  },
+  {
+    "idx": 261,
+    "name": "蒜苔炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      265
+    ]
+  },
+  {
+    "idx": 262,
+    "name": "酸萝卜炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      266
+    ]
+  },
+  {
+    "idx": 263,
+    "name": "酸豆角炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      267
+    ]
+  },
+  {
+    "idx": 264,
+    "name": "芹菜炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      268
+    ]
+  },
+  {
+    "idx": 265,
+    "name": "土豆片炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      269
+    ]
+  },
+  {
+    "idx": 266,
+    "name": "辣炒鱼豆腐",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      270
+    ]
+  },
+  {
+    "idx": 267,
+    "name": "豆腐炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      271
+    ]
+  },
+  {
+    "idx": 268,
+    "name": "江西小炒肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      272
+    ]
+  },
+  {
+    "idx": 269,
+    "name": "蒜苔炒腊肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      273
+    ]
+  },
+  {
+    "idx": 270,
+    "name": "萍乡小炒鸡",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      274
+    ]
+  },
+  {
+    "idx": 271,
+    "name": "农家一碗香",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      275
+    ]
+  },
+  {
+    "idx": 272,
+    "name": "杏鲍菇炒腊肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      276
+    ]
+  },
+  {
+    "idx": 273,
+    "name": "香辣鸡丝",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      277
+    ]
+  },
+  {
+    "idx": 274,
+    "name": "麻辣鸡丝",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      278
+    ]
+  },
+  {
+    "idx": 275,
+    "name": "烟笋炒腊肉",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      279
+    ]
+  },
+  {
+    "idx": 276,
+    "name": "辣炒肥牛",
+    "window": "江西小炒",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "18元",
+    "original_indices": [
+      280
+    ]
+  },
+  {
+    "idx": 277,
+    "name": "过桥米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11元",
+    "original_indices": [
+      281
+    ]
+  },
+  {
+    "idx": 278,
+    "name": "土豆粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      282
+    ]
+  },
+  {
+    "idx": 279,
+    "name": "煎蛋米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      283
+    ]
+  },
+  {
+    "idx": 280,
+    "name": "炸蛋米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      284
+    ]
+  },
+  {
+    "idx": 281,
+    "name": "肉沫米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      285
+    ]
+  },
+  {
+    "idx": 282,
+    "name": "鸡块米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      286
+    ]
+  },
+  {
+    "idx": 283,
+    "name": "肥牛米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      287
+    ]
+  },
+  {
+    "idx": 284,
+    "name": "五谷渔粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      288
+    ]
+  },
+  {
+    "idx": 285,
+    "name": "鸡汤米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      289
+    ]
+  },
+  {
+    "idx": 286,
+    "name": "半只鸡米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      290
+    ]
+  },
+  {
+    "idx": 287,
+    "name": "云南吊龙米线",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      291
+    ]
+  },
+  {
+    "idx": 288,
+    "name": "原味酸辣粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11元",
+    "original_indices": [
+      292
+    ]
+  },
+  {
+    "idx": 289,
+    "name": "煎蛋酸辣粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      293
+    ]
+  },
+  {
+    "idx": 290,
+    "name": "炸蛋酸辣粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      294
+    ]
+  },
+  {
+    "idx": 291,
+    "name": "肉沫酸辣粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      295
+    ]
+  },
+  {
+    "idx": 292,
+    "name": "鸡块酸辣粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      296
+    ]
+  },
+  {
+    "idx": 293,
+    "name": "肥牛酸辣粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      297
+    ]
+  },
+  {
+    "idx": 294,
+    "name": "螺蛳粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      298
+    ]
+  },
+  {
+    "idx": 295,
+    "name": "干拌螺蛳粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      299
+    ]
+  },
+  {
+    "idx": 296,
+    "name": "煎蛋螺蛳粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      300
+    ]
+  },
+  {
+    "idx": 297,
+    "name": "肉沫螺蛳粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      301
+    ]
+  },
+  {
+    "idx": 298,
+    "name": "鸡块螺蛳粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      302
+    ]
+  },
+  {
+    "idx": 299,
+    "name": "肥牛螺蛳粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      303
+    ]
+  },
+  {
+    "idx": 300,
+    "name": "炸蛋螺蛳粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      304
+    ]
+  },
+  {
+    "idx": 301,
+    "name": "素炒粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      305
+    ]
+  },
+  {
+    "idx": 302,
+    "name": "鸡肉炒粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      306
+    ]
+  },
+  {
+    "idx": 303,
+    "name": "年糕炒粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      307
+    ]
+  },
+  {
+    "idx": 304,
+    "name": "肥牛炒粉",
+    "window": "云禾谣过桥米线",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      308
+    ]
+  },
+  {
+    "idx": 305,
+    "name": "酸菜鸡蛋汤饭",
+    "window": "老妈汤泡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      309
+    ]
+  },
+  {
+    "idx": 306,
+    "name": "酸菜肥牛汤饭",
+    "window": "老妈汤泡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      310
+    ]
+  },
+  {
+    "idx": 307,
+    "name": "排骨汤泡饭",
+    "window": "老妈汤泡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      311
+    ]
+  },
+  {
+    "idx": 308,
+    "name": "青菜豆腐肉丸汤",
+    "window": "老妈汤泡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      312
+    ]
+  },
+  {
+    "idx": 309,
+    "name": "番茄肉丸汤",
+    "window": "老妈汤泡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      313
+    ]
+  },
+  {
+    "idx": 310,
+    "name": "照烧鸡排饭套餐",
+    "window": "老妈汤泡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      314
+    ]
+  },
+  {
+    "idx": 311,
+    "name": "山粉红烧肉套餐",
+    "window": "老妈汤泡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      315
+    ]
+  },
+  {
+    "idx": 312,
+    "name": "酱骨头套餐饭",
+    "window": "老妈汤泡饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "18元",
+    "original_indices": [
+      316
+    ]
+  },
+  {
+    "idx": 313,
+    "name": "农家肉碎茄子饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      317
+    ]
+  },
+  {
+    "idx": 314,
+    "name": "香菇滑鸡饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      318
+    ]
+  },
+  {
+    "idx": 315,
+    "name": "农家鸡腿肉饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      319
+    ]
+  },
+  {
+    "idx": 316,
+    "name": "红烧肉拼茄子饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      320
+    ]
+  },
+  {
+    "idx": 317,
+    "name": "小炒黄金蛋饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      321
+    ]
+  },
+  {
+    "idx": 318,
+    "name": "可乐鸡翅根饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      322
+    ]
+  },
+  {
+    "idx": 319,
+    "name": "农家梅菜烧肉饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      323
+    ]
+  },
+  {
+    "idx": 320,
+    "name": "腐竹肉片饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      324
+    ]
+  },
+  {
+    "idx": 321,
+    "name": "湖南小炒肉饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      325
+    ]
+  },
+  {
+    "idx": 322,
+    "name": "农家小炒鸡饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      326
+    ]
+  },
+  {
+    "idx": 323,
+    "name": "农家红烧肉饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      327
+    ]
+  },
+  {
+    "idx": 324,
+    "name": "糖醋小排骨饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      328
+    ]
+  },
+  {
+    "idx": 325,
+    "name": "口水鸡米饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      329
+    ]
+  },
+  {
+    "idx": 326,
+    "name": "手工肉丸饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      330
+    ]
+  },
+  {
+    "idx": 327,
+    "name": "香菜炒肉饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      331
+    ]
+  },
+  {
+    "idx": 328,
+    "name": "农家一碗香饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      332
+    ]
+  },
+  {
+    "idx": 329,
+    "name": "蒜条豆角肉饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      333
+    ]
+  },
+  {
+    "idx": 330,
+    "name": "重庆辣子鸡饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      334
+    ]
+  },
+  {
+    "idx": 331,
+    "name": "农家回锅肉饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      335
+    ]
+  },
+  {
+    "idx": 332,
+    "name": "泡椒鸡胗饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      336
+    ]
+  },
+  {
+    "idx": 333,
+    "name": "番茄牛肉饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      337
+    ]
+  },
+  {
+    "idx": 334,
+    "name": "牛肉拼茄子饭",
+    "window": "牛掌柜盖码饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      338
+    ]
+  },
+  {
+    "idx": 335,
+    "name": "经典鲍汁鸡公煲",
+    "window": "鲍汁鸡公煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      339
+    ]
+  },
+  {
+    "idx": 336,
+    "name": "秘制麻辣鸡公煲",
+    "window": "鲍汁鸡公煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      340
+    ]
+  },
+  {
+    "idx": 337,
+    "name": "黑鸭甜辣鸡公煲",
+    "window": "鲍汁鸡公煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      341
+    ]
+  },
+  {
+    "idx": 338,
+    "name": "五花肉酸菜煲",
+    "window": "鲍汁鸡公煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      342
+    ]
+  },
+  {
+    "idx": 339,
+    "name": "特色青花椒鸡公煲",
+    "window": "鲍汁鸡公煲",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15.8元",
+    "original_indices": [
+      343
+    ]
+  },
+  {
+    "idx": 340,
+    "name": "自助面",
+    "window": "李师傅自助手擀面",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12.8元",
+    "original_indices": [
+      344
+    ]
+  },
+  {
+    "idx": 341,
+    "name": "公瑾爆蛋土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      345
+    ]
+  },
+  {
+    "idx": 342,
+    "name": "蟹柳茄子土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "13元",
+    "original_indices": [
+      346
+    ]
+  },
+  {
+    "idx": 343,
+    "name": "椒麻手撕鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      347
+    ]
+  },
+  {
+    "idx": 344,
+    "name": "糖醋烧鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      348
+    ]
+  },
+  {
+    "idx": 345,
+    "name": "双椒鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      349
+    ]
+  },
+  {
+    "idx": 346,
+    "name": "牛奶脆皮炸鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      350
+    ]
+  },
+  {
+    "idx": 347,
+    "name": "荔枝鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      351
+    ]
+  },
+  {
+    "idx": 348,
+    "name": "招牌绝味鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      352
+    ]
+  },
+  {
+    "idx": 349,
+    "name": "法式黑椒鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      353
+    ]
+  },
+  {
+    "idx": 350,
+    "name": "韩式孜然鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      354
+    ]
+  },
+  {
+    "idx": 351,
+    "name": "泰式咖喱鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      355
+    ]
+  },
+  {
+    "idx": 352,
+    "name": "港式卤肉土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      356
+    ]
+  },
+  {
+    "idx": 353,
+    "name": "霸王炒鸡土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      357
+    ]
+  },
+  {
+    "idx": 354,
+    "name": "可乐鸡翅根土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      358
+    ]
+  },
+  {
+    "idx": 355,
+    "name": "黄金猪排土豆泥拌饭",
+    "window": "玖灵猫土豆泥拌饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "17元",
+    "original_indices": [
+      359
+    ]
+  },
+  {
+    "idx": 356,
+    "name": "石锅豆腐",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "10元",
+    "original_indices": [
+      360
+    ]
+  },
+  {
+    "idx": 357,
+    "name": "石锅土豆条",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11元",
+    "original_indices": [
+      361
+    ]
+  },
+  {
+    "idx": 358,
+    "name": "石锅土豆粉",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11元",
+    "original_indices": [
+      362
+    ]
+  },
+  {
+    "idx": 359,
+    "name": "石锅千叶豆腐",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "11元",
+    "original_indices": [
+      363
+    ]
+  },
+  {
+    "idx": 360,
+    "name": "石锅煎鸡蛋",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "12元",
+    "original_indices": [
+      364
+    ]
+  },
+  {
+    "idx": 361,
+    "name": "招牌小酥肉",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      365
+    ]
+  },
+  {
+    "idx": 362,
+    "name": "石锅水煮肉片",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      366
+    ]
+  },
+  {
+    "idx": 363,
+    "name": "石锅鸡排",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "14元",
+    "original_indices": [
+      367
+    ]
+  },
+  {
+    "idx": 364,
+    "name": "石锅鸭血粉丝",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      368
+    ]
+  },
+  {
+    "idx": 365,
+    "name": "石锅孜然烤肉",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      369
+    ]
+  },
+  {
+    "idx": 366,
+    "name": "石锅小酥肉",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      370
+    ]
+  },
+  {
+    "idx": 367,
+    "name": "石锅黑椒肉柳",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      371
+    ]
+  },
+  {
+    "idx": 368,
+    "name": "烧烤脆骨丸肠",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      372
+    ]
+  },
+  {
+    "idx": 369,
+    "name": "丸子全家福",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "15元",
+    "original_indices": [
+      373
+    ]
+  },
+  {
+    "idx": 370,
+    "name": "石锅烤鱼",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      374
+    ]
+  },
+  {
+    "idx": 371,
+    "name": "石锅红烧肉",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      375
+    ]
+  },
+  {
+    "idx": 372,
+    "name": "石锅鸡排火鸡面",
+    "window": "石锅饭",
+    "area": "聚雅一楼",
+    "sheet": "聚雅",
+    "price": "16元",
+    "original_indices": [
+      376
+    ]
+  },
+  {
+    "idx": 373,
+    "name": "泡芙",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "2元",
+    "original_indices": [
+      377
+    ]
+  },
+  {
+    "idx": 374,
+    "name": "热狗面包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      378
+    ]
+  },
+  {
+    "idx": 375,
+    "name": "瀑布鸡扒",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7元",
+    "original_indices": [
+      379
+    ]
+  },
+  {
+    "idx": 376,
+    "name": "三明治",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      380
+    ]
+  },
+  {
+    "idx": 377,
+    "name": "魔法奥利奥",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      381
+    ]
+  },
+  {
+    "idx": 378,
+    "name": "芝士鸡肠堡",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      382
+    ]
+  },
+  {
+    "idx": 379,
+    "name": "布里欧面包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      383
+    ]
+  },
+  {
+    "idx": 380,
+    "name": "巧克力麻薯",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "3.5元",
+    "original_indices": [
+      384
+    ]
+  },
+  {
+    "idx": 381,
+    "name": "蓝莓贝果",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      385
+    ]
+  },
+  {
+    "idx": 382,
+    "name": "奶香椰蓉棒",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      386
+    ]
+  },
+  {
+    "idx": 383,
+    "name": "蓝莓乳酪包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      387
+    ]
+  },
+  {
+    "idx": 384,
+    "name": "田园肉松面包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7元",
+    "original_indices": [
+      388
+    ]
+  },
+  {
+    "idx": 385,
+    "name": "奶油蔓越莓",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      389
+    ]
+  },
+  {
+    "idx": 386,
+    "name": "草莓甜心",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      390
+    ]
+  },
+  {
+    "idx": 387,
+    "name": "蛋挞",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "3.5元",
+    "original_indices": [
+      391,
+      626
+    ]
+  },
+  {
+    "idx": 388,
+    "name": "蛋糕卷",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5元",
+    "original_indices": [
+      392
+    ]
+  },
+  {
+    "idx": 389,
+    "name": "香肠面包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      393
+    ]
+  },
+  {
+    "idx": 390,
+    "name": "紫薯芋泥面包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      394
+    ]
+  },
+  {
+    "idx": 391,
+    "name": "红丝绒盒子",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      395
+    ]
+  },
+  {
+    "idx": 392,
+    "name": "黑森林",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      396
+    ]
+  },
+  {
+    "idx": 393,
+    "name": "提拉米苏",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      397
+    ]
+  },
+  {
+    "idx": 394,
+    "name": "雪媚娘",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5元",
+    "original_indices": [
+      398
+    ]
+  },
+  {
+    "idx": 395,
+    "name": "甜甜圈",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5元",
+    "original_indices": [
+      399
+    ]
+  },
+  {
+    "idx": 396,
+    "name": "蟹小方",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      400
+    ]
+  },
+  {
+    "idx": 397,
+    "name": "奶酪包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      401
+    ]
+  },
+  {
+    "idx": 398,
+    "name": "肉松面包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      402
+    ]
+  },
+  {
+    "idx": 399,
+    "name": "毛毛虫面包",
+    "window": "烘焙面包",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      403
+    ]
+  },
+  {
+    "idx": 400,
+    "name": "杂粮煎饼",
+    "window": "煎饼 / 烤冷面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6.2元",
+    "original_indices": [
+      404
+    ]
+  },
+  {
+    "idx": 401,
+    "name": "特色烤冷面",
+    "window": "煎饼 / 烤冷面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6.2元",
+    "original_indices": [
+      405
+    ]
+  },
+  {
+    "idx": 402,
+    "name": "酱香手抓饼",
+    "window": "煎饼 / 烤冷面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6.3元",
+    "original_indices": [
+      406
+    ]
+  },
+  {
+    "idx": 403,
+    "name": "葱油鸡饭",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      407
+    ]
+  },
+  {
+    "idx": 404,
+    "name": "玫瑰豉油鸡饭",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      408
+    ]
+  },
+  {
+    "idx": 405,
+    "name": "白切鸡饭",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      409
+    ]
+  },
+  {
+    "idx": 406,
+    "name": "盐焗鸡饭",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      410
+    ]
+  },
+  {
+    "idx": 407,
+    "name": "广式烧鸭饭",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      411
+    ]
+  },
+  {
+    "idx": 408,
+    "name": "广式烧鹅饭",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18元",
+    "original_indices": [
+      412
+    ]
+  },
+  {
+    "idx": 409,
+    "name": "土豆焖鸭饭",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      414
+    ]
+  },
+  {
+    "idx": 410,
+    "name": "土豆焖鸡饭",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      415
+    ]
+  },
+  {
+    "idx": 411,
+    "name": "茶树菇老鸭汤",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      416
+    ]
+  },
+  {
+    "idx": 412,
+    "name": "红枣枸杞老鸡汤",
+    "window": "广式烧腊",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      417
+    ]
+  },
+  {
+    "idx": 413,
+    "name": "鸡蛋玉米肠粉",
+    "window": "石磨肠粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      418
+    ]
+  },
+  {
+    "idx": 414,
+    "name": "双蛋肠粉",
+    "window": "石磨肠粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "9元",
+    "original_indices": [
+      419
+    ]
+  },
+  {
+    "idx": 415,
+    "name": "鸡蛋鸡肉肠粉",
+    "window": "石磨肠粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "9元",
+    "original_indices": [
+      420
+    ]
+  },
+  {
+    "idx": 416,
+    "name": "鸡蛋火腿肠粉",
+    "window": "石磨肠粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      421
+    ]
+  },
+  {
+    "idx": 417,
+    "name": "鸡蛋牛肉肠粉",
+    "window": "石磨肠粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      422
+    ]
+  },
+  {
+    "idx": 418,
+    "name": "鸡蛋虾仁肠粉",
+    "window": "石磨肠粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      423
+    ]
+  },
+  {
+    "idx": 419,
+    "name": "广式清补凉",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7元",
+    "original_indices": [
+      424
+    ]
+  },
+  {
+    "idx": 420,
+    "name": "香芋西米露",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      425
+    ]
+  },
+  {
+    "idx": 421,
+    "name": "奶香红豆沙",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7元",
+    "original_indices": [
+      426
+    ]
+  },
+  {
+    "idx": 422,
+    "name": "奶香绿豆沙",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7元",
+    "original_indices": [
+      427
+    ]
+  },
+  {
+    "idx": 423,
+    "name": "广式双皮奶",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      428
+    ]
+  },
+  {
+    "idx": 424,
+    "name": "银耳木瓜雪梨",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      429
+    ]
+  },
+  {
+    "idx": 425,
+    "name": "芒果西米露",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "9元",
+    "original_indices": [
+      430
+    ]
+  },
+  {
+    "idx": 426,
+    "name": "水果西米露",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7元",
+    "original_indices": [
+      431
+    ]
+  },
+  {
+    "idx": 427,
+    "name": "甘蔗马蹄水",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5元",
+    "original_indices": [
+      432
+    ]
+  },
+  {
+    "idx": 428,
+    "name": "苹果黄芪水",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5元",
+    "original_indices": [
+      433
+    ]
+  },
+  {
+    "idx": 429,
+    "name": "小吊梨汤",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5元",
+    "original_indices": [
+      434
+    ]
+  },
+  {
+    "idx": 430,
+    "name": "苹果雪梨热橙",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      435
+    ]
+  },
+  {
+    "idx": 431,
+    "name": "现磨黄豆豆浆",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "3元",
+    "original_indices": [
+      436
+    ]
+  },
+  {
+    "idx": 432,
+    "name": "现磨红豆薏米豆浆",
+    "window": "广式糖水",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "4元",
+    "original_indices": [
+      437
+    ]
+  },
+  {
+    "idx": 433,
+    "name": "麻辣烫/麻辣拌",
+    "window": "麻辣烫 / 麻辣拌",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18.6元/斤",
+    "original_indices": [
+      438
+    ]
+  },
+  {
+    "idx": 434,
+    "name": "香葱蛋炒饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元，6元",
+    "original_indices": [
+      439
+    ]
+  },
+  {
+    "idx": 435,
+    "name": "菠萝炒饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元，8元",
+    "original_indices": [
+      440
+    ]
+  },
+  {
+    "idx": 436,
+    "name": "鸡肉炒饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11元，8元",
+    "original_indices": [
+      441
+    ]
+  },
+  {
+    "idx": 437,
+    "name": "香肠炒饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元，9元",
+    "original_indices": [
+      442
+    ]
+  },
+  {
+    "idx": 438,
+    "name": "兰州炒饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元，10元",
+    "original_indices": [
+      444
+    ]
+  },
+  {
+    "idx": 439,
+    "name": "套餐：鸡排腿饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      445
+    ]
+  },
+  {
+    "idx": 440,
+    "name": "套餐：鸭腿饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      446
+    ]
+  },
+  {
+    "idx": 441,
+    "name": "套餐：鸡排饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      447
+    ]
+  },
+  {
+    "idx": 442,
+    "name": "套餐：鱼排饭",
+    "window": "喷香炒饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      448
+    ]
+  },
+  {
+    "idx": 443,
+    "name": "过油肉拌面",
+    "window": "精品拌面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      449,
+      708
+    ]
+  },
+  {
+    "idx": 444,
+    "name": "茄子牛肉拌面",
+    "window": "精品拌面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      450
+    ]
+  },
+  {
+    "idx": 445,
+    "name": "干煸炒面",
+    "window": "精品拌面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      451,
+      716
+    ]
+  },
+  {
+    "idx": 446,
+    "name": "辣子鸡拌面",
+    "window": "精品拌面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      454
+    ]
+  },
+  {
+    "idx": 447,
+    "name": "西红柿鸡蛋拌面",
+    "window": "精品拌面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      455,
+      478
+    ]
+  },
+  {
+    "idx": 448,
+    "name": "家常菜拌面",
+    "window": "精品拌面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11元",
+    "original_indices": [
+      456
+    ]
+  },
+  {
+    "idx": 449,
+    "name": "早餐面（供应早7:00-9:00）",
+    "window": "兰州拉面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5元",
+    "original_indices": [
+      457
+    ]
+  },
+  {
+    "idx": 450,
+    "name": "兰州拉面",
+    "window": "兰州拉面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      458
+    ]
+  },
+  {
+    "idx": 451,
+    "name": "羊肉手抓饭",
+    "window": "烤肉拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      459,
+      738
+    ]
+  },
+  {
+    "idx": 452,
+    "name": "烤肉拌饭",
+    "window": "烤肉拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11元",
+    "original_indices": [
+      460
+    ]
+  },
+  {
+    "idx": 453,
+    "name": "素手抓饭",
+    "window": "烤肉拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "9元",
+    "original_indices": [
+      461,
+      735
+    ]
+  },
+  {
+    "idx": 454,
+    "name": "贵州经典泡椒牛肉粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18元",
+    "original_indices": [
+      462
+    ]
+  },
+  {
+    "idx": 455,
+    "name": "贵州息烽辣子鸡粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      463
+    ]
+  },
+  {
+    "idx": 456,
+    "name": "贵阳花溪牛肉粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18元",
+    "original_indices": [
+      464
+    ]
+  },
+  {
+    "idx": 457,
+    "name": "苗家酸汤鱼粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17元",
+    "original_indices": [
+      465
+    ]
+  },
+  {
+    "idx": 458,
+    "name": "苗家酸汤牛肉粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18元",
+    "original_indices": [
+      466
+    ]
+  },
+  {
+    "idx": 459,
+    "name": "原汤素粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      467
+    ]
+  },
+  {
+    "idx": 460,
+    "name": "特色干拌牛肉粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18元",
+    "original_indices": [
+      468
+    ]
+  },
+  {
+    "idx": 461,
+    "name": "贵州辣子鸡拌粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      469
+    ]
+  },
+  {
+    "idx": 462,
+    "name": "麻椒鸡丝拌粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      470
+    ]
+  },
+  {
+    "idx": 463,
+    "name": "鸡碎肉酸豆角拌粉",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      471
+    ]
+  },
+  {
+    "idx": 464,
+    "name": "特色辣子鸡糯米饭",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17元",
+    "original_indices": [
+      472
+    ]
+  },
+  {
+    "idx": 465,
+    "name": "特色牛肉糯米饭",
+    "window": "贵州泡椒牛肉粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18元",
+    "original_indices": [
+      473
+    ]
+  },
+  {
+    "idx": 466,
+    "name": "高汤小面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      474
+    ]
+  },
+  {
+    "idx": 467,
+    "name": "重庆小面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      475
+    ]
+  },
+  {
+    "idx": 468,
+    "name": "宜宾燃面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      476
+    ]
+  },
+  {
+    "idx": 469,
+    "name": "鱼豆腐小面/拌面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      479
+    ]
+  },
+  {
+    "idx": 470,
+    "name": "酸菜肉末小面/拌面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      480
+    ]
+  },
+  {
+    "idx": 471,
+    "name": "豌豆小面/拌面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      481
+    ]
+  },
+  {
+    "idx": 472,
+    "name": "鸡块小面/拌面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      482
+    ]
+  },
+  {
+    "idx": 473,
+    "name": "泡椒鸡杂小面/拌面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      483
+    ]
+  },
+  {
+    "idx": 474,
+    "name": "红烧牛肉小面/拌面",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      484
+    ]
+  },
+  {
+    "idx": 475,
+    "name": "冒烤鸭",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      485
+    ]
+  },
+  {
+    "idx": 476,
+    "name": "冒鱼片",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      486
+    ]
+  },
+  {
+    "idx": 477,
+    "name": "冒肉片",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      487
+    ]
+  },
+  {
+    "idx": 478,
+    "name": "冒肉卷",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      488
+    ]
+  },
+  {
+    "idx": 479,
+    "name": "冒酥肉",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      489
+    ]
+  },
+  {
+    "idx": 480,
+    "name": "冒鱼丸",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      490
+    ]
+  },
+  {
+    "idx": 481,
+    "name": "冒火腿",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      491
+    ]
+  },
+  {
+    "idx": 482,
+    "name": "冒土豆粉",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      492
+    ]
+  },
+  {
+    "idx": 483,
+    "name": "干拌冒烤鸭",
+    "window": "重庆小面 / 成都冒烤鸭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      493
+    ]
+  },
+  {
+    "idx": 484,
+    "name": "低脂鸡胸蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.8元",
+    "original_indices": [
+      494
+    ]
+  },
+  {
+    "idx": 485,
+    "name": "手撕鸡腿蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.8元",
+    "original_indices": [
+      495
+    ]
+  },
+  {
+    "idx": 486,
+    "name": "滑嫩黑鱼蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.8元",
+    "original_indices": [
+      496
+    ]
+  },
+  {
+    "idx": 487,
+    "name": "Q弹大虾蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.8元",
+    "original_indices": [
+      497
+    ]
+  },
+  {
+    "idx": 488,
+    "name": "手切牛肉蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.8元",
+    "original_indices": [
+      498
+    ]
+  },
+  {
+    "idx": 489,
+    "name": "全素时蔬蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10.8元",
+    "original_indices": [
+      499
+    ]
+  },
+  {
+    "idx": 490,
+    "name": "孜然鸡柳蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.8元",
+    "original_indices": [
+      500
+    ]
+  },
+  {
+    "idx": 491,
+    "name": "滋补肥牛蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.8元",
+    "original_indices": [
+      501
+    ]
+  },
+  {
+    "idx": 492,
+    "name": "鸡胸拼鸡腿蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      502
+    ]
+  },
+  {
+    "idx": 493,
+    "name": "鸡胸拼牛肉蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.8元",
+    "original_indices": [
+      503
+    ]
+  },
+  {
+    "idx": 494,
+    "name": "鸡柳拼牛肉蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.8元",
+    "original_indices": [
+      504
+    ]
+  },
+  {
+    "idx": 495,
+    "name": "鸡腿拼牛肉蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.8元",
+    "original_indices": [
+      505
+    ]
+  },
+  {
+    "idx": 496,
+    "name": "鸡胸拼肥牛蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.8元",
+    "original_indices": [
+      506
+    ]
+  },
+  {
+    "idx": 497,
+    "name": "鸡腿拼肥牛蘸水菜",
+    "window": "样样好蘸水菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.8元",
+    "original_indices": [
+      507
+    ]
+  },
+  {
+    "idx": 498,
+    "name": "招牌黑鸭煲",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      508
+    ]
+  },
+  {
+    "idx": 499,
+    "name": "小酥肉黑鸭煲",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      509
+    ]
+  },
+  {
+    "idx": 500,
+    "name": "Q鱼板黑鸭煲",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      510
+    ]
+  },
+  {
+    "idx": 501,
+    "name": "牛肉丸黑鸭煲",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      511
+    ]
+  },
+  {
+    "idx": 502,
+    "name": "招牌鲜香炒鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      512
+    ]
+  },
+  {
+    "idx": 503,
+    "name": "秘制麻辣炒鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      513
+    ]
+  },
+  {
+    "idx": 504,
+    "name": "金牌青花椒炒鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      514
+    ]
+  },
+  {
+    "idx": 505,
+    "name": "菌菇回味炒鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      515
+    ]
+  },
+  {
+    "idx": 506,
+    "name": "招牌原味肥牛鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      516
+    ]
+  },
+  {
+    "idx": 507,
+    "name": "川香麻辣肥牛鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      517
+    ]
+  },
+  {
+    "idx": 508,
+    "name": "金汤柠檬肥牛鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      518
+    ]
+  },
+  {
+    "idx": 509,
+    "name": "滋补番茄肥牛鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      519
+    ]
+  },
+  {
+    "idx": 510,
+    "name": "老坛酸菜肥牛鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      520
+    ]
+  },
+  {
+    "idx": 511,
+    "name": "金牌番茄肥牛鸡",
+    "window": "山东炒鸡米饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      521
+    ]
+  },
+  {
+    "idx": 512,
+    "name": "素什锦石锅拌饭",
+    "window": "韩式石锅拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      523
+    ]
+  },
+  {
+    "idx": 513,
+    "name": "鸡肉肠石锅拌饭",
+    "window": "韩式石锅拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      524
+    ]
+  },
+  {
+    "idx": 514,
+    "name": "酸菜肥牛石锅拌饭",
+    "window": "韩式石锅拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      525
+    ]
+  },
+  {
+    "idx": 515,
+    "name": "肥牛石锅拌饭",
+    "window": "韩式石锅拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      526
+    ]
+  },
+  {
+    "idx": 516,
+    "name": "肥羊石锅拌饭",
+    "window": "韩式石锅拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      527
+    ]
+  },
+  {
+    "idx": 517,
+    "name": "酥脆鸡排石锅拌饭",
+    "window": "韩式石锅拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      528
+    ]
+  },
+  {
+    "idx": 518,
+    "name": "照烧鸡肉石锅拌饭",
+    "window": "韩式石锅拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      529
+    ]
+  },
+  {
+    "idx": 519,
+    "name": "香酥鱼排石锅拌饭",
+    "window": "韩式石锅拌饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      530
+    ]
+  },
+  {
+    "idx": 520,
+    "name": "羊肉香菜水饺",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      531
+    ]
+  },
+  {
+    "idx": 521,
+    "name": "羊肉韭黄水饺",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      532
+    ]
+  },
+  {
+    "idx": 522,
+    "name": "羊肉胡萝卜水饺",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      533
+    ]
+  },
+  {
+    "idx": 523,
+    "name": "牛肉玉米水饺",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      535
+    ]
+  },
+  {
+    "idx": 524,
+    "name": "牛肉白菜水饺",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      536
+    ]
+  },
+  {
+    "idx": 525,
+    "name": "牛肉莲藕水饺",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      537
+    ]
+  },
+  {
+    "idx": 526,
+    "name": "牛肉香菇水饺",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      538
+    ]
+  },
+  {
+    "idx": 527,
+    "name": "酸菜鸡蛋水饺",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/8元，中份15个/12元，大份20个/16元",
+    "original_indices": [
+      540
+    ]
+  },
+  {
+    "idx": 528,
+    "name": "牛肉皮蛋馄饨",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      541
+    ]
+  },
+  {
+    "idx": 529,
+    "name": "牛肉大葱馄饨",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "小份10个/10元，中份15个/15元，大份20个/20元",
+    "original_indices": [
+      542
+    ]
+  },
+  {
+    "idx": 530,
+    "name": "铁板咖喱鸡肉饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      543
+    ]
+  },
+  {
+    "idx": 531,
+    "name": "铁板照烧芝士鸡肉饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      544
+    ]
+  },
+  {
+    "idx": 532,
+    "name": "铁板咖喱芝士鸡肉饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      545
+    ]
+  },
+  {
+    "idx": 533,
+    "name": "铁板黑椒芝士鸡肉饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      546
+    ]
+  },
+  {
+    "idx": 534,
+    "name": "铁板黑椒肥牛饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      547
+    ]
+  },
+  {
+    "idx": 535,
+    "name": "铁板招牌肥牛饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      548
+    ]
+  },
+  {
+    "idx": 536,
+    "name": "铁板孜然肥牛饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      549
+    ]
+  },
+  {
+    "idx": 537,
+    "name": "铁板黑椒芝士肥牛饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      550
+    ]
+  },
+  {
+    "idx": 538,
+    "name": "铁板招牌芝士肥牛饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      551
+    ]
+  },
+  {
+    "idx": 539,
+    "name": "铁板孜然芝士肥牛饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      552
+    ]
+  },
+  {
+    "idx": 540,
+    "name": "铁板酱香烤鱼饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      553
+    ]
+  },
+  {
+    "idx": 541,
+    "name": "铁板麻辣烤鱼饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      554
+    ]
+  },
+  {
+    "idx": 542,
+    "name": "铁板藤椒烤鱼饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      555
+    ]
+  },
+  {
+    "idx": 543,
+    "name": "铁板蒜香烤鱼饭",
+    "window": "手工水饺/馄饨/铁板饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      556
+    ]
+  },
+  {
+    "idx": 544,
+    "name": "什锦炒饭",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      557
+    ]
+  },
+  {
+    "idx": 545,
+    "name": "经典蛋炒饭",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      558
+    ]
+  },
+  {
+    "idx": 546,
+    "name": "酸菜蛋炒饭",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      559
+    ]
+  },
+  {
+    "idx": 547,
+    "name": "菌菇牛肉炒饭",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      560
+    ]
+  },
+  {
+    "idx": 548,
+    "name": "芽菜肉沫炒饭",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      561
+    ]
+  },
+  {
+    "idx": 549,
+    "name": "辣白菜炒饭",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      563
+    ]
+  },
+  {
+    "idx": 550,
+    "name": "香辣肉片（砂锅）",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      564
+    ]
+  },
+  {
+    "idx": 551,
+    "name": "肉沫滑蛋（砂锅）",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      565
+    ]
+  },
+  {
+    "idx": 552,
+    "name": "筋头巴脑（砂锅）",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18元",
+    "original_indices": [
+      566
+    ]
+  },
+  {
+    "idx": 553,
+    "name": "小酥肉焖菜（砂锅）",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      567
+    ]
+  },
+  {
+    "idx": 554,
+    "name": "三鲜手打丸子汤（砂锅）",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      568
+    ]
+  },
+  {
+    "idx": 555,
+    "name": "番茄手打丸子汤（砂锅）",
+    "window": "炒饭 / 砂锅菜",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      569
+    ]
+  },
+  {
+    "idx": 556,
+    "name": "番茄脆香鸡米饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      570
+    ]
+  },
+  {
+    "idx": 557,
+    "name": "蜜汁脆香鸡米饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      571
+    ]
+  },
+  {
+    "idx": 558,
+    "name": "黑胡椒脆香鸡米饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      572
+    ]
+  },
+  {
+    "idx": 559,
+    "name": "沙拉脆香鸡米饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      573
+    ]
+  },
+  {
+    "idx": 560,
+    "name": "蜂蜜芥末脆香鸡米饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      574
+    ]
+  },
+  {
+    "idx": 561,
+    "name": "韩式甜辣脆香鸡米饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      575
+    ]
+  },
+  {
+    "idx": 562,
+    "name": "蛋黄芝士脆香鸡米饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      576
+    ]
+  },
+  {
+    "idx": 563,
+    "name": "黑椒鸡块浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12.4元",
+    "original_indices": [
+      577
+    ]
+  },
+  {
+    "idx": 564,
+    "name": "咖喱鸡块浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12.4元",
+    "original_indices": [
+      578
+    ]
+  },
+  {
+    "idx": 565,
+    "name": "香酥鸡块浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      579
+    ]
+  },
+  {
+    "idx": 566,
+    "name": "辣子鸡浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      580
+    ]
+  },
+  {
+    "idx": 567,
+    "name": "甜辣馋嘴鸡浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      581
+    ]
+  },
+  {
+    "idx": 568,
+    "name": "鲜炒鹿茸菇浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      582
+    ]
+  },
+  {
+    "idx": 569,
+    "name": "香辣牛肉浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.3元",
+    "original_indices": [
+      583
+    ]
+  },
+  {
+    "idx": 570,
+    "name": "番茄牛肉浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.3元",
+    "original_indices": [
+      584
+    ]
+  },
+  {
+    "idx": 571,
+    "name": "香辣虾尾浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.2元",
+    "original_indices": [
+      585
+    ]
+  },
+  {
+    "idx": 572,
+    "name": "蒜香虾尾浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.2元",
+    "original_indices": [
+      586
+    ]
+  },
+  {
+    "idx": 573,
+    "name": "番茄虾尾浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.2元",
+    "original_indices": [
+      587
+    ]
+  },
+  {
+    "idx": 574,
+    "name": "小炒黄牛肉浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.2元",
+    "original_indices": [
+      588
+    ]
+  },
+  {
+    "idx": 575,
+    "name": "酸菜牛肉浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      589
+    ]
+  },
+  {
+    "idx": 576,
+    "name": "番茄滑肉片",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      590
+    ]
+  },
+  {
+    "idx": 577,
+    "name": "麻辣滑肉片",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      591
+    ]
+  },
+  {
+    "idx": 578,
+    "name": "黑椒鸡扒饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      592
+    ]
+  },
+  {
+    "idx": 579,
+    "name": "鸭浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      593
+    ]
+  },
+  {
+    "idx": 580,
+    "name": "脆皮南瓜",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "2元",
+    "original_indices": [
+      594
+    ]
+  },
+  {
+    "idx": 581,
+    "name": "浇汁饭",
+    "window": "盖浇饭 / 牛肉饭",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元，15元，18元",
+    "original_indices": [
+      595
+    ]
+  },
+  {
+    "idx": 582,
+    "name": "鸡蛋千张卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5.5元",
+    "original_indices": [
+      596
+    ]
+  },
+  {
+    "idx": 583,
+    "name": "鸡肉肠千张卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5.5元",
+    "original_indices": [
+      597
+    ]
+  },
+  {
+    "idx": 584,
+    "name": "无骨鸡柳卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      598
+    ]
+  },
+  {
+    "idx": 585,
+    "name": "雪花鸡柳卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      599
+    ]
+  },
+  {
+    "idx": 586,
+    "name": "火鸡面千张卷",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      600
+    ]
+  },
+  {
+    "idx": 587,
+    "name": "爆浆鸡排卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8.5元",
+    "original_indices": [
+      601
+    ]
+  },
+  {
+    "idx": 588,
+    "name": "拆骨腿肉卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8.5元",
+    "original_indices": [
+      602
+    ]
+  },
+  {
+    "idx": 589,
+    "name": "孜然牛肉卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11.8元",
+    "original_indices": [
+      603
+    ]
+  },
+  {
+    "idx": 590,
+    "name": "脆皮烤鸭卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10.8元",
+    "original_indices": [
+      604
+    ]
+  },
+  {
+    "idx": 591,
+    "name": "酱香鸭脯卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8.8元",
+    "original_indices": [
+      605
+    ]
+  },
+  {
+    "idx": 592,
+    "name": "黑椒肉柳卷饼",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8.8元",
+    "original_indices": [
+      606
+    ]
+  },
+  {
+    "idx": 593,
+    "name": "特色双拼卷",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11.8元",
+    "original_indices": [
+      607
+    ]
+  },
+  {
+    "idx": 594,
+    "name": "脆皮烤鸭拌饭",
+    "window": "烤鸭拌饭 / 特色卷饼",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.8元",
+    "original_indices": [
+      608
+    ]
+  },
+  {
+    "idx": 595,
+    "name": "鸡腿堡1套餐（香辣鸡腿堡+薯条+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.30元",
+    "original_indices": [
+      609
+    ]
+  },
+  {
+    "idx": 596,
+    "name": "鸡腿堡2套餐（香辣鸡腿堡+鸡块+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.30元",
+    "original_indices": [
+      610
+    ]
+  },
+  {
+    "idx": 597,
+    "name": "鸡腿堡3套餐（香辣鸡腿堡+香酥鸡腿+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.30元",
+    "original_indices": [
+      611
+    ]
+  },
+  {
+    "idx": 598,
+    "name": "鸡腿堡4套餐（香辣鸡腿堡+香辣翅根+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.30元",
+    "original_indices": [
+      612
+    ]
+  },
+  {
+    "idx": 599,
+    "name": "鸡腿堡5套餐（香辣鸡腿堡+鸡肉卷+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.00元",
+    "original_indices": [
+      613
+    ]
+  },
+  {
+    "idx": 600,
+    "name": "鸡腿堡6套餐（香辣鸡腿堡+田园鸡蔬堡）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.00元",
+    "original_indices": [
+      614
+    ]
+  },
+  {
+    "idx": 601,
+    "name": "鸡腿堡7套餐（香辣鸡腿堡+半只脆皮炸鸡+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "22.00元",
+    "original_indices": [
+      615
+    ]
+  },
+  {
+    "idx": 602,
+    "name": "牛肉堡8套餐（菠萝牛肉堡+薯条+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "20.10元",
+    "original_indices": [
+      616
+    ]
+  },
+  {
+    "idx": 603,
+    "name": "鳕鱼堡9套餐（深海鳕鱼堡+薯条+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18.20元",
+    "original_indices": [
+      617
+    ]
+  },
+  {
+    "idx": 604,
+    "name": "虾堡10套餐（黄金虾堡+劲脆鸡米花+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "19.20元",
+    "original_indices": [
+      618
+    ]
+  },
+  {
+    "idx": 605,
+    "name": "香辣鸡腿汉堡",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7.60元",
+    "original_indices": [
+      619
+    ]
+  },
+  {
+    "idx": 606,
+    "name": "田园鸡蔬堡",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6.70元",
+    "original_indices": [
+      620
+    ]
+  },
+  {
+    "idx": 607,
+    "name": "板烧堡",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7.60元",
+    "original_indices": [
+      621
+    ]
+  },
+  {
+    "idx": 608,
+    "name": "深海鳕鱼堡",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10.50元",
+    "original_indices": [
+      622
+    ]
+  },
+  {
+    "idx": 609,
+    "name": "黄金虾堡",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10.50元",
+    "original_indices": [
+      623
+    ]
+  },
+  {
+    "idx": 610,
+    "name": "菠萝牛肉堡",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12.40元",
+    "original_indices": [
+      624
+    ]
+  },
+  {
+    "idx": 611,
+    "name": "香辣鸡肉卷",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7.60元",
+    "original_indices": [
+      625
+    ]
+  },
+  {
+    "idx": 612,
+    "name": "水果派（香芋、菠萝、红豆）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "4.80元",
+    "original_indices": [
+      627
+    ]
+  },
+  {
+    "idx": 613,
+    "name": "地瓜丸",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "4.80元",
+    "original_indices": [
+      628
+    ]
+  },
+  {
+    "idx": 614,
+    "name": "薯条",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5.70元",
+    "original_indices": [
+      629
+    ]
+  },
+  {
+    "idx": 615,
+    "name": "脆皮香蕉",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5.70元",
+    "original_indices": [
+      630
+    ]
+  },
+  {
+    "idx": 616,
+    "name": "黑椒鸡块",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5.70元",
+    "original_indices": [
+      631
+    ]
+  },
+  {
+    "idx": 617,
+    "name": "香辣翅根",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "5.70元",
+    "original_indices": [
+      632
+    ]
+  },
+  {
+    "idx": 618,
+    "name": "香辣鸡腿",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6.70元",
+    "original_indices": [
+      633
+    ]
+  },
+  {
+    "idx": 619,
+    "name": "鸡米花",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6.70元",
+    "original_indices": [
+      634
+    ]
+  },
+  {
+    "idx": 620,
+    "name": "咔滋脆鸡排",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8.60元",
+    "original_indices": [
+      635
+    ]
+  },
+  {
+    "idx": 621,
+    "name": "脆皮半鸡",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12.00元",
+    "original_indices": [
+      636
+    ]
+  },
+  {
+    "idx": 622,
+    "name": "脆皮全鸡",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "22.00元",
+    "original_indices": [
+      637
+    ]
+  },
+  {
+    "idx": 623,
+    "name": "小食拼盘（鸡块3块+薯条+鸡翅根2个）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11.00元",
+    "original_indices": [
+      638
+    ]
+  },
+  {
+    "idx": 624,
+    "name": "小食拼盘（鸡米花+黑椒鸡块3块+地瓜丸）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.00元",
+    "original_indices": [
+      639
+    ]
+  },
+  {
+    "idx": 625,
+    "name": "无骨韩式炸鸡（无骨韩式炸鸡+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17元",
+    "original_indices": [
+      640
+    ]
+  },
+  {
+    "idx": 626,
+    "name": "无骨韩式炸鸡（无骨韩式炸鸡+地瓜丸4个）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17元",
+    "original_indices": [
+      641
+    ]
+  },
+  {
+    "idx": 627,
+    "name": "无骨韩式炸鸡（无骨韩式炸鸡+脆皮香蕉3个）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18元",
+    "original_indices": [
+      642
+    ]
+  },
+  {
+    "idx": 628,
+    "name": "无骨韩式炸鸡（无骨韩式炸鸡+翅根2个）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "19元",
+    "original_indices": [
+      643
+    ]
+  },
+  {
+    "idx": 629,
+    "name": "无骨韩式炸鸡（无骨韩式炸鸡+香辣鸡腿堡+可乐）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "24元",
+    "original_indices": [
+      644
+    ]
+  },
+  {
+    "idx": 630,
+    "name": "冷饮类（可乐/芬达/雪碧/冰红茶）",
+    "window": "炸鸡汉堡",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "3.30元",
+    "original_indices": [
+      645
+    ]
+  },
+  {
+    "idx": 631,
+    "name": "自选轻餐",
+    "window": "悦轻荷",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "9.4元/半斤",
+    "original_indices": [
+      646
+    ]
+  },
+  {
+    "idx": 632,
+    "name": "小面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8.6元",
+    "original_indices": [
+      647
+    ]
+  },
+  {
+    "idx": 633,
+    "name": "酸菜肉丝面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      648
+    ]
+  },
+  {
+    "idx": 634,
+    "name": "鸡蛋西红柿面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12.4元",
+    "original_indices": [
+      649
+    ]
+  },
+  {
+    "idx": 635,
+    "name": "肉酱面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.3元",
+    "original_indices": [
+      650
+    ]
+  },
+  {
+    "idx": 636,
+    "name": "豌豆杂酱面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.3元",
+    "original_indices": [
+      651
+    ]
+  },
+  {
+    "idx": 637,
+    "name": "肉末酸豆角面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      652
+    ]
+  },
+  {
+    "idx": 638,
+    "name": "羊杂面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.3元",
+    "original_indices": [
+      653
+    ]
+  },
+  {
+    "idx": 639,
+    "name": "双椒肉丁面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      654
+    ]
+  },
+  {
+    "idx": 640,
+    "name": "泡椒鸡杂面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.3元",
+    "original_indices": [
+      655
+    ]
+  },
+  {
+    "idx": 641,
+    "name": "重庆辣子鸡（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      656
+    ]
+  },
+  {
+    "idx": 642,
+    "name": "原汤牛肉面（清汤/红汤/干拌）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.3元",
+    "original_indices": [
+      657
+    ]
+  },
+  {
+    "idx": 643,
+    "name": "莎莎番茄面",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11.4元",
+    "original_indices": [
+      658
+    ]
+  },
+  {
+    "idx": 644,
+    "name": "莎莎番茄煎蛋面",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      659
+    ]
+  },
+  {
+    "idx": 645,
+    "name": "四川秘制拌面",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      661
+    ]
+  },
+  {
+    "idx": 646,
+    "name": "土豆泥拌面",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11.5元",
+    "original_indices": [
+      662
+    ]
+  },
+  {
+    "idx": 647,
+    "name": "土豆泥肉酱拌面",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.3元",
+    "original_indices": [
+      663
+    ]
+  },
+  {
+    "idx": 648,
+    "name": "鸡丝拌面",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      664
+    ]
+  },
+  {
+    "idx": 649,
+    "name": "麻酱拌凉皮",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      665
+    ]
+  },
+  {
+    "idx": 650,
+    "name": "剁椒拌面",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10.5元",
+    "original_indices": [
+      666
+    ]
+  },
+  {
+    "idx": 651,
+    "name": "老麻抄手",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      668
+    ]
+  },
+  {
+    "idx": 652,
+    "name": "干拌抄手",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.4元",
+    "original_indices": [
+      669
+    ]
+  },
+  {
+    "idx": 653,
+    "name": "剁椒拌抄手",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      670
+    ]
+  },
+  {
+    "idx": 654,
+    "name": "莎莎番茄抄手",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      671
+    ]
+  },
+  {
+    "idx": 655,
+    "name": "全蔬减脂",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11.8元",
+    "original_indices": [
+      672
+    ]
+  },
+  {
+    "idx": 656,
+    "name": "减脂鸡肉",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.8元",
+    "original_indices": [
+      673
+    ]
+  },
+  {
+    "idx": 657,
+    "name": "滑嫩黑鱼片",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.8元",
+    "original_indices": [
+      674
+    ]
+  },
+  {
+    "idx": 658,
+    "name": "小酥鸡肉",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.8元",
+    "original_indices": [
+      675
+    ]
+  },
+  {
+    "idx": 659,
+    "name": "低脂嫩鸡胸",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      676
+    ]
+  },
+  {
+    "idx": 660,
+    "name": "手撕鸡腿肉",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.8元",
+    "original_indices": [
+      677
+    ]
+  },
+  {
+    "idx": 661,
+    "name": "早餐：小面清汤（小份）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      678
+    ]
+  },
+  {
+    "idx": 662,
+    "name": "早餐：清汤抄手（小份）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      679
+    ]
+  },
+  {
+    "idx": 663,
+    "name": "早餐：老北京炸酱面（小份）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      680
+    ]
+  },
+  {
+    "idx": 664,
+    "name": "早餐：秘制拌面（小份）",
+    "window": "重庆小面",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      681
+    ]
+  },
+  {
+    "idx": 665,
+    "name": "原味米粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "9元",
+    "original_indices": [
+      682
+    ]
+  },
+  {
+    "idx": 666,
+    "name": "特色酸辣粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "9.6元",
+    "original_indices": [
+      683
+    ]
+  },
+  {
+    "idx": 667,
+    "name": "三鲜汤粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      684
+    ]
+  },
+  {
+    "idx": 668,
+    "name": "特色麻辣粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      685
+    ]
+  },
+  {
+    "idx": 669,
+    "name": "藤椒鸡块粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      686
+    ]
+  },
+  {
+    "idx": 670,
+    "name": "肉沫汤粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      687
+    ]
+  },
+  {
+    "idx": 671,
+    "name": "番茄牛肉粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      688
+    ]
+  },
+  {
+    "idx": 672,
+    "name": "金汤牛肚粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      689
+    ]
+  },
+  {
+    "idx": 673,
+    "name": "西安甑糕（小）",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6.5元",
+    "original_indices": [
+      690
+    ]
+  },
+  {
+    "idx": 674,
+    "name": "西安甑糕（大）",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      691
+    ]
+  },
+  {
+    "idx": 675,
+    "name": "素拌粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "10元",
+    "original_indices": [
+      692
+    ]
+  },
+  {
+    "idx": 676,
+    "name": "肉沫拌粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      693
+    ]
+  },
+  {
+    "idx": 677,
+    "name": "鸡块拌粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13元",
+    "original_indices": [
+      694
+    ]
+  },
+  {
+    "idx": 678,
+    "name": "酸菜鱼片粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      695
+    ]
+  },
+  {
+    "idx": 679,
+    "name": "浓汤羊杂米粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      696
+    ]
+  },
+  {
+    "idx": 680,
+    "name": "鱼片拌粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      697
+    ]
+  },
+  {
+    "idx": 681,
+    "name": "羊杂拌粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      698
+    ]
+  },
+  {
+    "idx": 682,
+    "name": "牛肉拌粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      699
+    ]
+  },
+  {
+    "idx": 683,
+    "name": "牛肚拌粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      700
+    ]
+  },
+  {
+    "idx": 684,
+    "name": "浓汤羊肉粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      701
+    ]
+  },
+  {
+    "idx": 685,
+    "name": "羊肉拌粉",
+    "window": "米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      702
+    ]
+  },
+  {
+    "idx": 686,
+    "name": "手工拉面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "8元",
+    "original_indices": [
+      703
+    ]
+  },
+  {
+    "idx": 687,
+    "name": "西红柿鸡蛋",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      704
+    ]
+  },
+  {
+    "idx": 688,
+    "name": "大盘鸡",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7元",
+    "original_indices": [
+      705
+    ]
+  },
+  {
+    "idx": 689,
+    "name": "椒麻鸡",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "7元",
+    "original_indices": [
+      706
+    ]
+  },
+  {
+    "idx": 690,
+    "name": "手工面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "6元",
+    "original_indices": [
+      707
+    ]
+  },
+  {
+    "idx": 691,
+    "name": "韭菜肉拌面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      709
+    ]
+  },
+  {
+    "idx": 692,
+    "name": "韭菜鸡蛋拌面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      710
+    ]
+  },
+  {
+    "idx": 693,
+    "name": "辣子肉拌面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      711
+    ]
+  },
+  {
+    "idx": 694,
+    "name": "孜然羊肉拌面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      712
+    ]
+  },
+  {
+    "idx": 695,
+    "name": "孜然牛肉拌面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      713
+    ]
+  },
+  {
+    "idx": 696,
+    "name": "葱爆羊肉拌面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      714
+    ]
+  },
+  {
+    "idx": 697,
+    "name": "葱爆牛肉拌面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.8元",
+    "original_indices": [
+      715
+    ]
+  },
+  {
+    "idx": 698,
+    "name": "兰州炒面",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      717
+    ]
+  },
+  {
+    "idx": 699,
+    "name": "炒拉条",
+    "window": "面食（汤面/拌面/炒面）",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14元",
+    "original_indices": [
+      718
+    ]
+  },
+  {
+    "idx": 700,
+    "name": "牛肉汤",
+    "window": "淮南牛肉汤",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "12元",
+    "original_indices": [
+      719
+    ]
+  },
+  {
+    "idx": 701,
+    "name": "牛肉汤+葱油饼",
+    "window": "淮南牛肉汤",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      720
+    ]
+  },
+  {
+    "idx": 702,
+    "name": "鸡丝汤+葱油饼",
+    "window": "淮南牛肉汤",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      721
+    ]
+  },
+  {
+    "idx": 703,
+    "name": "牛杂汤+葱油饼",
+    "window": "淮南牛肉汤",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.4元",
+    "original_indices": [
+      722
+    ]
+  },
+  {
+    "idx": 704,
+    "name": "拆骨汤+葱油饼",
+    "window": "淮南牛肉汤",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.3元",
+    "original_indices": [
+      723
+    ]
+  },
+  {
+    "idx": 705,
+    "name": "泰式打抛饭",
+    "window": "淮南牛肉汤",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      724
+    ]
+  },
+  {
+    "idx": 706,
+    "name": "素炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "11.0元",
+    "original_indices": [
+      725
+    ]
+  },
+  {
+    "idx": 707,
+    "name": "辣白菜炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "13.0元",
+    "original_indices": [
+      726
+    ]
+  },
+  {
+    "idx": 708,
+    "name": "馕粉对半",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.0元",
+    "original_indices": [
+      727
+    ]
+  },
+  {
+    "idx": 709,
+    "name": "仿蟹肉炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.0元",
+    "original_indices": [
+      728
+    ]
+  },
+  {
+    "idx": 710,
+    "name": "鸡米花炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "14.0元",
+    "original_indices": [
+      729
+    ]
+  },
+  {
+    "idx": 711,
+    "name": "鸡肉炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15.0元",
+    "original_indices": [
+      730
+    ]
+  },
+  {
+    "idx": 712,
+    "name": "馕丁鸡肉炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16.0元",
+    "original_indices": [
+      731
+    ]
+  },
+  {
+    "idx": 713,
+    "name": "年糕鸡肉炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.0元",
+    "original_indices": [
+      732
+    ]
+  },
+  {
+    "idx": 714,
+    "name": "牛肉炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "17.0元",
+    "original_indices": [
+      733
+    ]
+  },
+  {
+    "idx": 715,
+    "name": "经典肥牛炒米粉",
+    "window": "新疆炒米粉",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "18.0元",
+    "original_indices": [
+      734
+    ]
+  },
+  {
+    "idx": 716,
+    "name": "鸡腿手抓饭",
+    "window": "手抓饭 / 小火锅",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "15元",
+    "original_indices": [
+      736
+    ]
+  },
+  {
+    "idx": 717,
+    "name": "牛肉手抓饭",
+    "window": "手抓饭 / 小火锅",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "16元",
+    "original_indices": [
+      737
+    ]
+  },
+  {
+    "idx": 718,
+    "name": "小火锅（一人一锅）",
+    "window": "手抓饭 / 小火锅",
+    "area": "荟贤一楼",
+    "sheet": "荟贤",
+    "price": "22.9元",
+    "original_indices": [
+      739
+    ]
+  }
+]

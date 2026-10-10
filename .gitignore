@@ -1,0 +1,7 @@
+.sites-runtime/
+work/
+outputs/
+.env
+.env.*
+!.env.example
+.python-packages/

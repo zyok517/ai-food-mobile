@@ -1,0 +1,4 @@
+﻿PROMPT_024=A steamer basket of Chinese steamed dumplings, plump dumplings with meat filling, steaming hot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_025=A plate of pan-fried pork buns, golden crispy bottom, fluffy top, sesame seeds, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_026=A Chinese flatbread with crispy crumbs on top, golden brown, sprinkled with sesame and spices, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_027=A glass of warm five-grain soy milk drink, creamy soy milk, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text

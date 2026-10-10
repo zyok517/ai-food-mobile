@@ -1,0 +1,192 @@
+﻿IDX=453
+NAME=素手抓饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=454
+NAME=贵州经典泡椒牛肉粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=455
+NAME=贵州息烽辣子鸡粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=456
+NAME=贵阳花溪牛肉粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=457
+NAME=苗家酸汤鱼粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=458
+NAME=苗家酸汤牛肉粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=459
+NAME=原汤素粉
+PROMPT=A bowl of plain rice noodles with vegetables in light broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=460
+NAME=特色干拌牛肉粉
+PROMPT=A plate of mixed rice noodles with sauce, tossed with chili oil, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=461
+NAME=贵州辣子鸡拌粉
+PROMPT=A plate of mixed rice noodles with sauce, tossed with chili oil, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=462
+NAME=麻椒鸡丝拌粉
+PROMPT=A plate of mixed rice noodles with sauce, tossed with chili oil, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=463
+NAME=鸡碎肉酸豆角拌粉
+PROMPT=A plate of mixed rice noodles with sauce, tossed with chili oil, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=464
+NAME=特色辣子鸡糯米饭
+PROMPT=A plate of rice with spicy chicken and dried chilies, red and fiery, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=465
+NAME=特色牛肉糯米饭
+PROMPT=A plate of rice with beef, savory brown sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=466
+NAME=高汤小面
+PROMPT=A bowl of Chinese noodles in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=467
+NAME=重庆小面
+PROMPT=A bowl of Chinese noodles in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=468
+NAME=宜宾燃面
+PROMPT=A bowl of Chinese noodles in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=469
+NAME=鱼豆腐小面/拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=470
+NAME=酸菜肉末小面/拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=471
+NAME=豌豆小面/拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=472
+NAME=鸡块小面/拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=473
+NAME=泡椒鸡杂小面/拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=474
+NAME=红烧牛肉小面/拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=475
+NAME=冒烤鸭
+PROMPT=A plate of Chinese duck dish, sliced duck with sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=476
+NAME=冒鱼片
+PROMPT=A plate of Chinese fish dish, cooked fish with sauce and vegetables, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=477
+NAME=冒肉片
+PROMPT=A bowl of Sichuan style boiled meat slices in spicy broth, red oil surface, Mao style, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=478
+NAME=冒肉卷
+PROMPT=A bowl of Sichuan style boiled meat rolls in spicy broth, red oil surface, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=479
+NAME=冒酥肉
+PROMPT=A bowl of Sichuan style boiled crispy pork in spicy broth, red oil surface, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=480
+NAME=冒鱼丸
+PROMPT=A plate of Chinese fish dish, cooked fish with sauce and vegetables, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=481
+NAME=冒火腿
+PROMPT=A bowl of Sichuan style boiled ham in spicy broth, red oil surface, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=482
+NAME=冒土豆粉
+PROMPT=A bowl of rice noodles with toppings in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=483
+NAME=干拌冒烤鸭
+PROMPT=A plate of Chinese duck dish, sliced duck with sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=484
+NAME=低脂鸡胸蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=485
+NAME=手撕鸡腿蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=486
+NAME=滑嫩黑鱼蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=487
+NAME=Q弹大虾蘸水菜
+PROMPT=A plate of boiled shrimp with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=488
+NAME=手切牛肉蘸水菜
+PROMPT=A plate of boiled beef slices with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=489
+NAME=全素时蔬蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=490
+NAME=孜然鸡柳蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=491
+NAME=滋补肥牛蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=492
+NAME=鸡胸拼鸡腿蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=493
+NAME=鸡胸拼牛肉蘸水菜
+PROMPT=A plate of boiled beef slices with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=494
+NAME=鸡柳拼牛肉蘸水菜
+PROMPT=A plate of boiled beef slices with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=495
+NAME=鸡腿拼牛肉蘸水菜
+PROMPT=A plate of boiled beef slices with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=496
+NAME=鸡胸拼肥牛蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=497
+NAME=鸡腿拼肥牛蘸水菜
+PROMPT=A plate of Chinese boiled meat with spicy dipping broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=498
+NAME=招牌黑鸭煲
+PROMPT=A clay pot of Chinese stew, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=499
+NAME=小酥肉黑鸭煲
+PROMPT=A clay pot of Chinese stew with crispy pork, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=500
+NAME=Q鱼板黑鸭煲
+PROMPT=A clay pot of Chinese stew with fish, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

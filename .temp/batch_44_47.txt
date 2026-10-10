@@ -1,0 +1,4 @@
+﻿PROMPT_044=A clay pot of Chinese stew with three fresh ingredients, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_045=A clay pot of Chinese stew with chicken, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_046=A clay pot of Chinese stew with crispy pork, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_047=A clay pot of Chinese stew with pork ribs, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text

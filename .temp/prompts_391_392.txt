@@ -1,0 +1,8 @@
+﻿IDX=391
+NAME=红丝绒盒子
+PROMPT=A red velvet cake box, layered red cake with white cream in a box, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=392
+NAME=黑森林
+PROMPT=A black forest cake slice, chocolate cake with cherries and cream, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

@@ -1,0 +1,120 @@
+﻿IDX=361
+NAME=招牌小酥肉
+PROMPT=A plate of crispy fried pork chunks, golden brown, Sichuan style, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=362
+NAME=石锅水煮肉片
+PROMPT=A sizzling stone pot dish with meat and vegetables, bubbling hot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=363
+NAME=石锅鸡排
+PROMPT=A sizzling stone pot chicken, tender chicken in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=364
+NAME=石锅鸭血粉丝
+PROMPT=A sizzling stone pot with duck blood and vermicelli, sizzling in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=365
+NAME=石锅孜然烤肉
+PROMPT=A sizzling stone pot roast meat, sizzling in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=366
+NAME=石锅小酥肉
+PROMPT=A sizzling stone pot with crispy pork, sizzling in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=367
+NAME=石锅黑椒肉柳
+PROMPT=A sizzling stone pot with black pepper meat, sizzling in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=368
+NAME=烧烤脆骨丸肠
+PROMPT=A plate of grilled cartilage meatballs and sausages, crispy grilled, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=369
+NAME=丸子全家福
+PROMPT=A bowl of assorted meatball feast, various meatballs in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=370
+NAME=石锅烤鱼
+PROMPT=A sizzling stone pot fish, grilled fish in stone bowl with sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=371
+NAME=石锅红烧肉
+PROMPT=A sizzling stone pot with braised pork, sizzling in stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=372
+NAME=石锅鸡排火鸡面
+PROMPT=A bowl of Chinese noodles in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=373
+NAME=泡芙
+PROMPT=A cream puff pastry, golden round shell with cream filling, dusted with sugar, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=374
+NAME=热狗面包
+PROMPT=Fresh bread buns, golden brown, soft and fluffy, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=375
+NAME=瀑布鸡扒
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=376
+NAME=三明治
+PROMPT=A sandwich, two slices of bread with lettuce, meat and cheese, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=377
+NAME=魔法奥利奥
+PROMPT=Oreo cookie dessert, chocolate cookies with cream filling, crushed and decorated, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=378
+NAME=芝士鸡肠堡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=379
+NAME=布里欧面包
+PROMPT=Fresh bread buns, golden brown, soft and fluffy, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=380
+NAME=巧克力麻薯
+PROMPT=A chocolate mochi, dark round chewy mochi with chocolate filling, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=381
+NAME=蓝莓贝果
+PROMPT=A blueberry bagel, golden ring-shaped bread with blueberry bits, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=382
+NAME=奶香椰蓉棒
+PROMPT=A coconut cream stick bread, long golden bread with coconut filling, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=383
+NAME=蓝莓乳酪包
+PROMPT=A blueberry cheese bread, soft bread with blueberry cream cheese filling, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=384
+NAME=田园肉松面包
+PROMPT=A soft bread bun with meat floss, fluffy bread topped with pork floss, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=385
+NAME=奶油蔓越莓
+PROMPT=A cranberry cream pastry, golden bread with red cranberry bits, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=386
+NAME=草莓甜心
+PROMPT=A strawberry sweet pastry, pink decorated bread with strawberry, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=387
+NAME=蛋挞
+PROMPT=An egg tart, golden yellow custard in flaky pastry shell, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=388
+NAME=蛋糕卷
+PROMPT=A Swiss cake roll, soft sponge cake rolled with cream, spiral cross-section, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=389
+NAME=香肠面包
+PROMPT=Fresh bread buns, golden brown, soft and fluffy, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=390
+NAME=紫薯芋泥面包
+PROMPT=Fresh bread buns, golden brown, soft and fluffy, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

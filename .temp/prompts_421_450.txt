@@ -1,0 +1,120 @@
+﻿IDX=421
+NAME=奶香红豆沙
+PROMPT=A bowl of red bean sweet paste, warm dark red sweet soup, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=422
+NAME=奶香绿豆沙
+PROMPT=A bowl of mung bean sweet paste, warm green sweet soup, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=423
+NAME=广式双皮奶
+PROMPT=A bowl of Cantonese double skin milk pudding, silky white pudding in bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=424
+NAME=银耳木瓜雪梨
+PROMPT=A bowl of snow fungus papaya pear soup, nourishing sweet soup with white fungus, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=425
+NAME=芒果西米露
+PROMPT=A bowl of mango sago dessert, yellow creamy mango with sago pearls, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=426
+NAME=水果西米露
+PROMPT=A bowl of fruit sago dessert, colorful fruits with sago pearls in coconut milk, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=427
+NAME=甘蔗马蹄水
+PROMPT=A glass of sugarcane water chestnut drink, clear sweet refreshing drink, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=428
+NAME=苹果黄芪水
+PROMPT=A glass of apple astragalus tonic water, warm herbal health drink, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=429
+NAME=小吊梨汤
+PROMPT=A bowl of Chinese soup, hot savory soup with fresh ingredients, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=430
+NAME=苹果雪梨热橙
+PROMPT=A cup of hot apple pear orange fruit tea, warm fruity tea drink, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=431
+NAME=现磨黄豆豆浆
+PROMPT=A glass of warm soy milk drink, creamy soy milk, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=432
+NAME=现磨红豆薏米豆浆
+PROMPT=A glass of warm soy milk drink, creamy soy milk, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=433
+NAME=麻辣烫/麻辣拌
+PROMPT=A plate of spicy mixed vegetables and noodles, tossed in chili oil and sesame sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=434
+NAME=香葱蛋炒饭
+PROMPT=A plate of Chinese fried rice with mixed ingredients, golden rice grains, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=435
+NAME=菠萝炒饭
+PROMPT=A plate of Chinese fried rice with mixed ingredients, golden rice grains, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=436
+NAME=鸡肉炒饭
+PROMPT=A plate of chicken fried rice, fried rice with chicken pieces, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=437
+NAME=香肠炒饭
+PROMPT=A plate of Chinese fried rice with mixed ingredients, golden rice grains, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=438
+NAME=兰州炒饭
+PROMPT=A plate of Chinese fried rice with mixed ingredients, golden rice grains, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=439
+NAME=套餐：鸡排腿饭
+PROMPT=A plate of rice with chicken cutlet, crispy outside, tender inside, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=440
+NAME=套餐：鸭腿饭
+PROMPT=A plate of rice with duck leg, savory braised, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=441
+NAME=套餐：鸡排饭
+PROMPT=A plate of rice with chicken cutlet, crispy outside, tender inside, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=442
+NAME=套餐：鱼排饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=443
+NAME=过油肉拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=444
+NAME=茄子牛肉拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=445
+NAME=干煸炒面
+PROMPT=A plate of Chinese stir-fried noodles with vegetables and sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=446
+NAME=辣子鸡拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=447
+NAME=西红柿鸡蛋拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=448
+NAME=家常菜拌面
+PROMPT=A bowl of Chinese dry mixed noodles with savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=449
+NAME=早餐面（供应早7:00-9:00）
+PROMPT=A bowl of breakfast noodles, simple noodles in clear broth, morning meal, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=450
+NAME=兰州拉面
+PROMPT=A bowl of Chinese hand-pulled noodles in savory broth, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

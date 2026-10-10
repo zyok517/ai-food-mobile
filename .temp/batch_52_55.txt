@@ -1,0 +1,4 @@
+﻿PROMPT_052=A bowl of chewy beef tendon noodles, thick noodles in spicy sauce with beef, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_053=A Chinese meat sandwich, crispy flatbread filled with chopped fat and lean pork, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_054=A Chinese meat sandwich, crispy flatbread filled with chopped lean pork, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+PROMPT_055=A plate of spicy mixed vegetables and noodles, tossed in chili oil and sesame sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text

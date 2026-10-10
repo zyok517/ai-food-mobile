@@ -1,0 +1,8 @@
+﻿IDX=451
+NAME=羊肉手抓饭
+PROMPT=A plate of Chinese rice with meat and vegetables, savory sauce, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=452
+NAME=烤肉拌饭
+PROMPT=A plate of rice with roast meat, savory slices, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---

@@ -1,0 +1,160 @@
+﻿IDX=501
+NAME=牛肉丸黑鸭煲
+PROMPT=A clay pot of Chinese stew, bubbling hot stew in a clay pot, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=502
+NAME=招牌鲜香炒鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=503
+NAME=秘制麻辣炒鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=504
+NAME=金牌青花椒炒鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=505
+NAME=菌菇回味炒鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=506
+NAME=招牌原味肥牛鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=507
+NAME=川香麻辣肥牛鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=508
+NAME=金汤柠檬肥牛鸡
+PROMPT=A bowl of Chinese soup, hot savory soup with fresh ingredients, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=509
+NAME=滋补番茄肥牛鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=510
+NAME=老坛酸菜肥牛鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=511
+NAME=金牌番茄肥牛鸡
+PROMPT=A plate of Chinese chicken dish, tender chicken with seasonings, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=512
+NAME=素什锦石锅拌饭
+PROMPT=A sizzling stone pot bibimbap with rice, vegetables, meat and egg, sizzling in a hot stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=513
+NAME=鸡肉肠石锅拌饭
+PROMPT=A sizzling stone pot bibimbap with rice, vegetables, meat and egg, sizzling in a hot stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=514
+NAME=酸菜肥牛石锅拌饭
+PROMPT=A sizzling stone pot bibimbap with rice, vegetables, meat and egg, sizzling in a hot stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=515
+NAME=肥牛石锅拌饭
+PROMPT=A sizzling stone pot bibimbap with rice, vegetables, meat and egg, sizzling in a hot stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=516
+NAME=肥羊石锅拌饭
+PROMPT=A sizzling stone pot bibimbap with rice, vegetables, meat and egg, sizzling in a hot stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=517
+NAME=酥脆鸡排石锅拌饭
+PROMPT=A sizzling stone pot bibimbap with rice, vegetables, meat and egg, sizzling in a hot stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=518
+NAME=照烧鸡肉石锅拌饭
+PROMPT=A sizzling stone pot bibimbap with rice, vegetables, meat and egg, sizzling in a hot stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=519
+NAME=香酥鱼排石锅拌饭
+PROMPT=A sizzling stone pot bibimbap with rice, vegetables, meat and egg, sizzling in a hot stone bowl, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=520
+NAME=羊肉香菜水饺
+PROMPT=A plate of Chinese boiled dumplings with 羊肉香菜 filling, steaming hot, plump dumpling wrappers, a small dipping sauce dish, wooden chopsticks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=521
+NAME=羊肉韭黄水饺
+PROMPT=A plate of Chinese boiled dumplings with 羊肉韭黄 filling, steaming hot, plump dumpling wrappers, a small dipping sauce dish, wooden chopsticks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=522
+NAME=羊肉胡萝卜水饺
+PROMPT=A plate of Chinese boiled dumplings with 羊肉胡萝卜 filling, steaming hot, plump dumpling wrappers, a small dipping sauce dish, wooden chopsticks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=523
+NAME=牛肉玉米水饺
+PROMPT=A plate of Chinese boiled dumplings with 牛肉玉米 filling, steaming hot, plump dumpling wrappers, a small dipping sauce dish, wooden chopsticks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=524
+NAME=牛肉白菜水饺
+PROMPT=A plate of Chinese boiled dumplings with 牛肉白菜 filling, steaming hot, plump dumpling wrappers, a small dipping sauce dish, wooden chopsticks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=525
+NAME=牛肉莲藕水饺
+PROMPT=A plate of Chinese boiled dumplings with 牛肉莲藕 filling, steaming hot, plump dumpling wrappers, a small dipping sauce dish, wooden chopsticks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=526
+NAME=牛肉香菇水饺
+PROMPT=A plate of Chinese boiled dumplings with 牛肉香菇 filling, steaming hot, plump dumpling wrappers, a small dipping sauce dish, wooden chopsticks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=527
+NAME=酸菜鸡蛋水饺
+PROMPT=A plate of Chinese boiled dumplings with 酸菜鸡蛋 filling, steaming hot, plump dumpling wrappers, a small dipping sauce dish, wooden chopsticks, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=528
+NAME=牛肉皮蛋馄饨
+PROMPT=A bowl of Chinese wonton soup with plump wontons in savory broth, green scallions, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=529
+NAME=牛肉大葱馄饨
+PROMPT=A bowl of Chinese wonton soup with plump wontons in savory broth, green scallions, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=530
+NAME=铁板咖喱鸡肉饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=531
+NAME=铁板照烧芝士鸡肉饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=532
+NAME=铁板咖喱芝士鸡肉饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=533
+NAME=铁板黑椒芝士鸡肉饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=534
+NAME=铁板黑椒肥牛饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=535
+NAME=铁板招牌肥牛饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=536
+NAME=铁板孜然肥牛饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=537
+NAME=铁板黑椒芝士肥牛饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=538
+NAME=铁板招牌芝士肥牛饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=539
+NAME=铁板孜然芝士肥牛饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
+IDX=540
+NAME=铁板酱香烤鱼饭
+PROMPT=A sizzling iron plate rice dish, rice with meat and vegetables on hot iron plate, cartoon style illustration, flat design, cute kawaii food illustration, warm cream background, soft warm colors, appetizing, simple and clean, no text
+---
