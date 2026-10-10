@@ -1,0 +1,52 @@
+.wheel-loading {
+  margin: -4px 0 12px;
+  color: var(--caramel);
+  font-size: 18px;
+  text-align: center;
+  animation: wheel-pulse 700ms ease-in-out infinite alternate;
+}
+
+.swipe-card.fly-like {
+  transform: translate(125%, -28px) rotate(18deg) !important;
+  opacity: 0;
+}
+
+.swipe-card.fly-skip {
+  transform: translate(-125%, -28px) rotate(-18deg) !important;
+  opacity: 0;
+}
+
+.swipe-hint { transition: opacity 100ms linear; }
+
+@keyframes wheel-pulse {
+  from { opacity: .55; }
+  to { opacity: 1; }
+}
+
+.meal-button { margin: 14px 0 4px; }
+.dish-wide { height: 230px; overflow: hidden; background: var(--butter); }
+.dish-wide img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.meal-notice { margin: 14px 0; padding: 12px 14px; border-radius: 12px; background: #e1f4eb; color: #285847; }
+.pending-review-card { width: 100%; display: flex; align-items: center; gap: 12px; padding: 12px; margin: 12px 0 18px; text-align: left; border: 0; color: inherit; }
+.pending-review-card > span:first-child { width: 62px; height: 62px; flex: 0 0 62px; overflow: hidden; border-radius: 10px; background: var(--butter); }
+.pending-review-card img { width: 100%; height: 100%; object-fit: cover; }
+.pending-review-card > span:nth-child(2) { flex: 1; display: flex; flex-direction: column; gap: 5px; }
+.pending-review-card small { color: var(--muted); }
+.pending-review-card b { color: var(--caramel); }
+.pending-icon { display: grid; place-items: center; font-size: 27px; }
+.review-editor { padding: 16px; }
+.review-thumb { width: 76px; height: 76px; margin-right: 12px; overflow: hidden; border-radius: 12px; }
+.review-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.review-stars { display: flex; gap: 8px; margin: 8px 0 18px; }
+.review-stars button { border: 0; background: transparent; color: #d8cfc3; font-size: 32px; cursor: pointer; }
+.review-stars button.active { color: var(--caramel); }
+.login-page { min-height: calc(100dvh - 40px); display: flex; flex-direction: column; justify-content: center; align-items: stretch; padding: 18px 0 40px; }
+.login-mark { width: 72px; height: 72px; display: grid; place-items: center; margin: 0 auto 18px; border: 3px solid var(--caramel); border-radius: 24px; background: var(--butter); font-size: 38px; }
+.login-page > .eyebrow, .login-page > h1, .login-page > .subtitle { text-align: center; }
+.login-page > h1 { margin-top: 6px; }
+.login-card { margin-top: 18px; padding: 18px; }
+.login-code-row { display: flex; gap: 8px; align-items: center; }
+.login-code-row .input { min-width: 0; }
+.login-code-row .pill { flex: 0 0 auto; padding-left: 12px; padding-right: 12px; }
+.login-tip, .login-legal { display: block; text-align: center; color: var(--mocha); margin-top: 12px; font-size: 12px; }
+.logout-button { margin: 12px 0 4px; }
